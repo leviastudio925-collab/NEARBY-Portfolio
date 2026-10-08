@@ -1,0 +1,25 @@
+{
+  "scenes": [
+    "NEARBY Warm | Cover close view",
+    "NEARBY Warm | Exploded concept",
+    "NEARBY Warm | Studio parked",
+    "NEARBY Warm | Sunlit home",
+    "NEARBY Warm | Technical form study"
+  ],
+  "objects": 445,
+  "renders": [
+    "cover_home_close.png",
+    "exploded.png",
+    "form_front.png",
+    "form_perspective.png",
+    "form_side.png",
+    "home_hero.png",
+    "studio_follow.png",
+    "studio_parked.png",
+    "tray_detail.png"
+  ],
+  "new_design": true,
+  "original_demo_influence": "storage box, rising surface, four guides, mounted screen",
+  "clinically_validated": false,
+  "follow_validated": false
+}

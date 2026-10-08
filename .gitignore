@@ -1,0 +1,9 @@
+# Local caches and Blender backups
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
+.env
+.env.*
+Thumbs.db
+.DS_Store
