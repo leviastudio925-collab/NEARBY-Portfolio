@@ -1,0 +1,114 @@
+{
+  "addedText": {
+    "427:3240": "9:41",
+    "427:3243": "NEARBY",
+    "427:3245": "Pack for travel",
+    "427:3246": "STAY · drive off for packing",
+    "427:3249": "PACK MODE",
+    "427:3252": "1. Clear the tabletop",
+    "427:3253": "Store loose items in drawers",
+    "427:3255": "2. Lower and lock the surface",
+    "I427:3256;127:214": "LOWER",
+    "427:3258": "CHECK",
+    "427:3259": "3. Check both drawers are latched.",
+    "I427:3260;127:214": "Confirm manual checks",
+    "427:3264": "Home",
+    "427:3267": "Height",
+    "427:3274": "Places",
+    "427:3277": "Pack",
+    "427:3302": "LEISURE → TRAVEL",
+    "427:3303": "Clear → lower → lock\nTurn following off.\nConfirm checks yourself.",
+    "427:3304": "TOW & LOAD",
+    "427:3305": "Extend the pull handle.\nCarry with both side grips.\nSecure inside the car.",
+    "427:3306": "Proposed mode\nLocks and car fit need testing.",
+    "428:3253": "Portable by design. Leisure wherever you settle.",
+    "428:3254": "FOLLOW + STAY + HEIGHT at home  /  LOWER + LOCK + MANUAL TOW between stays",
+    "428:3257": "01 / Lower, stow and lock",
+    "428:3259": "Fold the screen, clear the tray and secure both drawers.\nSide grips support two-hand carrying.\nVirtual model envelope ≈ 600 × 490 × 500 mm.",
+    "428:3261": "02 / Extend the pull handle",
+    "428:3263": "Rear telescopic grip + side carry handles.\nFollowing stays disabled during manual transport.\nDrivetrain release and handle strength need validation.",
+    "428:3265": "03 / Place in the car",
+    "428:3267": "Stow the pull handle and secure the body in the boot.\nMeasure the target car opening, floor and lifting path.\nAI scene simulation; no verified vehicle compatibility.",
+    "428:3269": "PACK MODE",
+    "428:3270": "1  STAY: confirm the table is parked.\n2  Clear the tray; stow loose items.\n3  Lower the surface and latch it.\n4  Lock the drawers; disable following.\n5  Extend the handle for manual towing.\n6  Use both side grips to load.\n7  Secure in the car.",
+    "428:3271": "AT THE DESTINATION",
+    "428:3272": "Release transport locks → unpack →\nreview the new room → resume leisure.",
+    "428:3273": "Next tests: packed mass, grip loading,\ndrawer retention, rolling resistance\nand target-vehicle fit.",
+    "428:3274": "Creator-requested transport extension · proposed hardware and mode logic · original lift-box geometry retained · Blender renders + AI concept car scene"
+  },
+  "boards": [
+    {
+      "id": "383:3293",
+      "name": "01 / Background + Everyday leisure context",
+      "w": 1684,
+      "h": 595
+    },
+    {
+      "id": "84:142",
+      "name": "02 / Scenario research + Current leisure journey",
+      "w": 1684,
+      "h": 595
+    },
+    {
+      "id": "206:1132",
+      "name": "03 / Concept + Technical research",
+      "w": 1684,
+      "h": 595
+    },
+    {
+      "id": "84:436",
+      "name": "04 / System + Indoor places",
+      "w": 1684,
+      "h": 595
+    },
+    {
+      "id": "84:480",
+      "name": "05 / Device + Personal app",
+      "w": 1684,
+      "h": 595
+    },
+    {
+      "id": "315:3274",
+      "name": "06 / Prototype + Leisure scenario",
+      "w": 1684,
+      "h": 595
+    },
+    {
+      "id": "428:3252",
+      "name": "NEARBY / Supporting Study / Portable towing + car transport",
+      "w": 1684,
+      "h": 595
+    }
+  ],
+  "packUI": {
+    "id": "427:3239",
+    "editableText": 16,
+    "instances": 9
+  },
+  "fills": [
+    {
+      "id": "427:3231",
+      "hasImage": true
+    },
+    {
+      "id": "427:3234",
+      "hasImage": true
+    },
+    {
+      "id": "427:3237",
+      "hasImage": true
+    },
+    {
+      "id": "428:3258",
+      "hasImage": true
+    },
+    {
+      "id": "428:3262",
+      "hasImage": true
+    },
+    {
+      "id": "428:3266",
+      "hasImage": true
+    }
+  ]
+}

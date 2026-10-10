@@ -1,0 +1,26 @@
+{
+  "theme": "Following tea table plus suitcase-like manual transport",
+  "scenes": [
+    "NEARBY Portable / Packed and locked",
+    "NEARBY Portable / Manual tow handle extended",
+    "NEARBY Portable / Carry and locking details",
+    "NEARBY Portable / Generic car boot simulation"
+  ],
+  "mode_sequence": [
+    "Leisure",
+    "Park",
+    "Clear tray and secure drawers",
+    "Lower and mechanically lock",
+    "Disable follow drive",
+    "Extend handle and manually tow",
+    "Two-hand lift into car",
+    "Unpack at destination"
+  ],
+  "packed_model_bounds_mm_xyz": [
+    599,
+    486,
+    493
+  ],
+  "dimension_status": "Virtual model estimate only; no measured mass, transport loading strength or vehicle compatibility",
+  "new_hardware_status": "Concept proposal, not demonstrated in original prototype"
+}

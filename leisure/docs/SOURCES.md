@@ -30,3 +30,12 @@ The bottom journey strip uses eight distinct source photos. Captions identify th
 - Original prototype photography and Blender workspace screenshot remain process evidence; earlier labels and objects may appear in those historical images.
 
 No user interviews, survey percentages, clinical evidence, motion accuracy, load capacity or spill-prevention results were fabricated.
+
+
+## Portable transport extension · 2026-10-10
+
+Creator brief: add suitcase-like manual towing and carry-to-car use. Telescopic handle and two side carry grips are the working design assumption.
+
+Product visuals `portable_packed.png`, `portable_tow.png`, `portable_details.png`, `portable_car_boot.png` are Blender concept renders. `portable_car_scene.png` is an imagegen concept scene generated from the packed-product render; prompt retained in `portable-car-image-prompt.txt`. No actual car model, verified luggage capacity, measured mass, load rating or usability result is asserted. The generic cargo compartment in the model is a visualization, not a vehicle engineering envelope.
+
+New screen: Pack Mode / manual checklist, editable native Figma text, frames and existing button component instances. Transport lock checks are user-confirmed proposals, not implemented sensors.
