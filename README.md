@@ -1,53 +1,51 @@
-# NEARBY — Mobile Essentials & Shared Care
+# NEARBY — Bring your break with you
 
-An interaction and service design portfolio exploring a familiar, mobile storage cabinet for people living with dementia and their caregivers.
+A following, height-adjustable tea table for young adults who want effortless downtime at home or in short-stay accommodation.
 
-**Portfolio:** six boards, 1684 × 595 px · English layout · IBM Plex Sans · Warm orange `#F28A2E`
+Tea, a book and a phone travel together from an enclosed balcony to the living room. The user starts following, parks beside the next seat and adjusts the tabletop after stopping.
 
-[Open the editable Figma project](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=84-252)
+**Latest version: 2026-10-10** · six boards · 1684 × 595 px · English layout · IBM Plex Sans · warm orange `#F28A2E`.
 
-## Current portfolio snapshot
+[Open the latest editable Figma boards](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=383-3293)
 
-The six PNG previews below were exported from the current Figma boards on **2026-10-09**. Figma is the current editable layout source; the PDF in `exports/` is an earlier export and does not include every subsequent layout revision.
+## Current portfolio
 
 | Board | Content | Preview |
 | --- | --- | --- |
-| 01 | Cover, background & home context | [PNG](previews/board-01.png) |
-| 02 | Research framing & everyday journey | [PNG](previews/board-02.png) |
-| 03 | Design concept, technical research & concept development | [PNG](previews/board-03.png) |
-| 04 | System design, touchpoints & simulated home map | [PNG](previews/board-04.png) |
-| 05 | User flow & interface design | [PNG](previews/board-05.png) |
-| 06 | Prototype, service & validation plan | [PNG](previews/board-06.png) |
+| 01 | Background + Everyday leisure context | [PNG](previews/board-01.png) |
+| 02 | Scenario research + Current leisure journey | [PNG](previews/board-02.png) |
+| 03 | Concept + Technical research | [PNG](previews/board-03.png) |
+| 04 | System + Indoor places | [PNG](previews/board-04.png) |
+| 05 | Device + Personal app | [PNG](previews/board-05.png) |
+| 06 | Prototype + Leisure scenario | [PNG](previews/board-06.png) |
 
-![Board 03 — Design concept and technical research](previews/board-03.png)
+![Following tea table — prototype and leisure scenario](previews/board-06.png)
 
-## Project files
+[Six-page preview PDF](leisure/NEARBY_Leisure_Portfolio_Preview.pdf) · [中文项目结构](leisure/docs/NEARBY_中文项目结构_休闲茶几.md) · [Sources and visual attribution](leisure/docs/SOURCES.md)
 
-- `models/`: editable Blender product model and scene manifest.
-- `assets/`: product renders, home mapping illustration and attributed contextual / technology references.
-- `docs/`: Chinese project structure, research notes, user journey, technical research and handoff documentation.
-- `scripts/`: existing Blender construction and rendering scripts.
+The PDF is a raster preview of the current Figma boards. Figma remains the editable layout source.
+
+## Latest files
+
+- `leisure/models/NEARBY_Leisure_Product.blend`: editable product model, tea-and-reading items, FOLLOW / STAY / HEIGHT controls and product scenes.
+- `leisure/assets/`: product renders, AI concept scenes, attributed context photos and the personal leisure map.
+- `leisure/docs/`: Chinese project structure, English copy, current Figma board IDs and sources.
+- `leisure/scripts/`: model adaptation and rendering source.
+- `previews/`: current six-board snapshots.
 - `source-demo/`: original prototype presentation and demonstration video.
-- `exports/`: earlier PDF and overview export, retained as a versioned reference.
-- `previews/`: current Figma board snapshots.
 
-[中文项目结构](docs/NEARBY_中文项目结构.md) · [第三面及技术资料](docs/NEARBY_第三面结构.md) · [用户体验结构](docs/NEARBY_用户体验结构.md) · [纪录片观察](docs/NEARBY_纪录片观察.md)
+## Evidence and proposed behavior
 
-## Prototype configuration and evidence
+The original cabinet, lift assembly and process photographs are retained. The creator reports four A2 motor electric pushrods, a powered wheel base that can follow a person, a camera, local STM32 face recognition and a simple phone interface.
 
-The creator confirmed the following prototype configuration on 2026-10-09:
+The latest project records select STM32H743 + OV2640 for local face matching. The fixed-ROI matching core has been tested on a PC; board testing remains pending. Identity matching and continuous tracking are separate engineering tasks.
 
-- Face-recognition AI runs locally on STM32, with a camera module.
-- Four A2 motor electric linear actuators control platform height.
-- A powered wheel base can follow a person.
-- A simple phone interface connects to the device.
+The revised personal app, indoor map, saved parking places, height presets and movement-state rules are interaction proposals. Scene images are AI concept simulations; context photographs illustrate activities, not completed fieldwork. User needs and the current journey are hypotheses derived from the revised brief. No measured movement accuracy, spill stability, load capacity or usability improvements are claimed.
 
-The exact STM32 part, actuator manufacturer and ratings, AI model and recognition metrics, following algorithm and measured motion performance remain undocumented. External ST, actuator and wheel-base illustrations are technology references; they do not identify the original prototype parts.
+Core proposed sequence: **prepare → FOLLOW → change room → STAY → HEIGHT → resume the break**. Height adjustment takes place while parked. Home mapping and route boundaries have not been presented as an implemented SLAM system. Short-stay use means indoor accommodation, not validated luggage transport or outdoor operation.
 
-The dementia-care product, COME / STAY / HELP interaction, caregiver UI, household map, navigation rules and service model are design proposals. Stock and documentary images illustrate contexts; they are not original fieldwork evidence. Expected benefits are directions for validation, not established clinical or usability results. Older documents may predate the hardware clarification above.
+## Earlier project versions
 
-## Sources and attribution
+The earlier dementia-care direction is retained in Git history and in `archive/care-2026-10-09/`. The legacy root `models/`, `assets/`, `docs/`, `scripts/` and `exports/` belong to that earlier direction. Use `leisure/` and the linked latest Figma boards for current work.
 
-Research and image links are retained in the Chinese documentation and in the Figma footers. Contextual photographs include Pexels images by George Milton and Rachel Claire. Technical references include STMicroelectronics, Bansbach, Pololu and LINAK. Documentary reference material is discussed in `docs/NEARBY_纪录片观察.md`.
-
-Third-party material retains its original rights. No blanket open-source or redistribution license is granted by this repository.
+Third-party sources retain their rights. This private portfolio repository does not grant a blanket redistribution license.

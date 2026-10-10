@@ -1,0 +1,18 @@
+{
+  "theme": "Young adult leisure tea table",
+  "scenes": [
+    "NEARBY Leisure | Cover close view",
+    "NEARBY Leisure | Exploded concept",
+    "NEARBY Leisure | Studio parked",
+    "NEARBY Leisure | Sunlit home",
+    "NEARBY Leisure | Technical form study"
+  ],
+  "controls": [
+    "FOLLOW",
+    "STAY",
+    "HEIGHT"
+  ],
+  "geometry_basis": "Original mobile cabinet and four-point adjustable surface",
+  "tea_motion_validation": "Not measured",
+  "dimensions_status": "Concept dimensions inherited from previous model"
+}
