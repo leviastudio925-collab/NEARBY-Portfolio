@@ -4,7 +4,7 @@ A following, height-adjustable tea table for young adults at home or in short-st
 
 Tea, a book and a phone travel together from an enclosed balcony to the living room. The user starts following, parks beside the next seat and adjusts the tabletop after stopping.
 
-**Latest version: 2026-10-10** · six boards · 1684 × 595 px · English layout · IBM Plex Sans · warm orange `#F28A2E`.
+**Latest version: 2026-10-10** · six boards · 1684 × 595 px · English layout · IBM Plex Sans · mint green `#59C3AD`, cream `#FFF9EF` and apricot accents `#F7B68D`.
 
 [Open the latest editable Figma boards](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=383-3293)
 
@@ -66,3 +66,9 @@ The existing six boards now connect indoor leisure with packing for the next sta
 Virtual packed envelope is approximately **600 × 490 × 500 mm** (actual model bounds 599 × 486 × 493 mm), not a real-product measurement. No mass, lift capacity, handle rating or universal car compatibility is asserted. The car image is a concept simulation generated from the packed model, not a photograph of a tested vehicle. The generic boot geometry in Blender is illustrative. Prompt and source attribution are retained in `leisure/docs/`. Original prototype evidence does not establish the new lock, grip or drivetrain-release mechanisms.
 
 Proposed transport flow: **STAY → clear tray → stow objects → lower and latch → disable following → confirm checks → manual tow → two-hand load → secure in car**. At the destination, release transport restraints, unpack and review the indoor layout before resuming leisure.
+
+## Fresh leisure palette
+
+The latest six Figma boards and supporting transport study now use mint **#59C3AD**, cream **#FFF9EF**, pale mint **#EAF7F0**, apricot **#F7B68D** and deep green-grey **#253A35**. Dark-green **#246B59** provides emphasis on pale backgrounds; bright mint provides emphasis on dark cards. A separate Figma variable collection scopes the new palette to current boards; the earlier orange collection is retained.
+
+Existing product renders, real prototype photos and warm scenario images keep their orange detailing as a complementary accent. Product geometry, IBM Plex Sans typography and six-board layout are retained. Palette variables and migration metadata are saved in `leisure/docs/fresh-leisure-palette.json` and `fresh-palette-migration.json`.

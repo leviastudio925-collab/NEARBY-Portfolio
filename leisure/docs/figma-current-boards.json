@@ -6,7 +6,7 @@
     595
   ],
   "font": "IBM Plex Sans",
-  "primaryColor": "#F28A2E",
+  "primaryColor": "#59C3AD",
   "boards": [
     "383:3293",
     "84:142",
@@ -18,5 +18,13 @@
   "theme": "Young adult leisure / following adjustable tea table / packed manual tow and car transport proposal",
   "evidence": "Real assembly retained; scenario photos are contextual or generated; new functionality remains a design proposal unless individually demonstrated.",
   "supportingStudy": "428:3252",
-  "portableFeatureStatus": "Concept extension: unmeasured mass, grip strength, rolling resistance and vehicle fit."
+  "portableFeatureStatus": "Concept extension: unmeasured mass, grip strength, rolling resistance and vehicle fit.",
+  "palette": {
+    "primary": "#59C3AD",
+    "cream": "#FFF9EF",
+    "lightMint": "#EAF7F0",
+    "apricot": "#F7B68D",
+    "ink": "#253A35",
+    "accentText": "#246B59"
+  }
 }
