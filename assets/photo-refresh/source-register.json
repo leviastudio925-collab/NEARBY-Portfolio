@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-11",
+  "purpose": "Replace repeated portfolio context and assembly photographs",
+  "context_note": "Illustrative stock photographs, not participant research evidence. Product concept renders retained.",
+  "web_photos": [
+    {"page":1,"node":"383:3319","source":"https://www.pexels.com/photo/positive-female-drinking-tea-at-work-6231631/"},
+    {"page":1,"node":"383:3322","source":"https://www.pexels.com/photo/living-room-with-armchair-and-table-near-tv-6758777/"},
+    {"page":2,"node":"188:1170","source":"https://www.pexels.com/photo/cozy-coffee-and-tea-setup-on-wooden-tray-28977971/"},
+    {"page":2,"node":"188:1175","source":"https://www.pexels.com/photo/blond-girl-reading-a-book-on-a-sofa-and-holding-a-cup-5979602/"},
+    {"page":2,"node":"188:1180","source":"https://www.pexels.com/photo/woman-lying-on-sofa-while-reading-a-book-6634923/"},
+    {"page":2,"node":"188:1197","source":"https://www.pexels.com/photo/a-person-walking-barefooted-in-the-living-room-6555454/"},
+    {"page":2,"node":"188:1198","source":"https://www.pexels.com/photo/dreamy-woman-with-coffee-on-balcony-at-home-6842352/"},
+    {"page":2,"node":"188:1199","source":"https://www.pexels.com/photo/tea-on-tray-on-table-10476093/"},
+    {"page":3,"node":"228:1136","source":"https://www.pexels.com/photo/white-armchair-beside-the-wooden-side-table-12277405/"},
+    {"page":3,"node":"228:1139","source":"https://www.pexels.com/photo/book-and-a-cup-of-tea-15275611/"}
+  ],
+  "user_media": [
+    {"page":6,"node":"I315:3328;315:3278","file":"IMG_5719.HEIC","purpose":"Caster bracket fixing"},
+    {"page":6,"node":"I315:3332;315:3278","file":"IMG_5728.HEIC","purpose":"Wheel installation"},
+    {"page":6,"node":"I315:3337;315:3278","file":"IMG_5742.HEIC","purpose":"Original wiring notes"},
+    {"page":6,"node":"I315:3341;315:3278","file":"IMG_5792.MOV","purpose":"Circuit connection video still"}
+  ]
+}

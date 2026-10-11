@@ -7,3 +7,11 @@ __pycache__/
 .env.*
 Thumbs.db
 .DS_Store
+
+# Embedded firmware checkout and generated builds
+firmware/**/.git/
+firmware/**/build/
+firmware/stm32h743-offline-face/
+
+# Superseded external documentary video
+assets/documentary_cdd_public_trailer.mp4

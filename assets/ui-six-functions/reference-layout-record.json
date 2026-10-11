@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-09",
+  "reference": "53e3e1e83d010ece7792809cabde2b76.png",
+  "board": "84:480",
+  "layout": "Reference positions adapted from an 870 x 681 composition into the 806 x 595 right-hand area. Left find and person screens including a 30 degree tilted phone; central home; overlapping lower map and storage screens; upper family sent and reply screens; lower remote; large photographic handheld phone and tagline on the right.",
+  "palette": "Preserved NEARBY warm orange, ivory and warm gray.",
+  "background": "reference-layout-background.png",
+  "backgroundMethod": "Built-in image_gen edited the supplied reference to reconstruct the photographic layer, removing source UI, copy and branding, retaining a blank handheld phone.",
+  "backgroundPrompt": "Reconstruct only the photographic background of the supplied 870:681 portfolio reference. Left 53.7 percent clean white. Right: sunlit ivory plaster wall, leafy shadows, warm cream linen, small natural plant, and a realistic hand holding a black-bezel upright blank white-screen phone at reference coordinates x680..833, y242..556. Remove all other small UI mockups, captions, headings, quotes, connector lines, cards and logos. Preserve warm neutral lighting and camera composition. No new text or graphics.",
+  "editableContent": "Native Figma UI frames, typography, annotation panels, connectors, NEARBY icon and tagline. Generated photograph only used as a background asset."
+}

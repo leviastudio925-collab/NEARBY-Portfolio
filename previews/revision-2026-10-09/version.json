@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-09",
+  "baseline": "User-provided NEARBY-Portfolio-main snapshot",
+  "fileKey": "ApoghdbZoRBlbBcDctaMXf",
+  "requestedNode": "221:1179",
+  "updatedBoard": "206:1132",
+  "updatedModule": {
+    "informationTypes": "237:1886",
+    "diagram": "237:1787"
+  },
+  "archivedBaselineBoard": "237:1105",
+  "scope": "Board 03 Core Topic: reference-matched typography proportions, request/feedback structure, branched control diagram and information taxonomy; technical citation footer narrowed to prevent overlap.",
+  "palette": "Existing NEARBY warm orange",
+  "editable": true,
+  "reference": "core-topic-reference.png",
+  "before": "board-03-before.png",
+  "after": "board-03-after.png",
+  "detail": "core-topic-after.png",
+  "verification": {
+    "moduleWidth": 340,
+    "moduleHeight": 503,
+    "nativeTextNodesIncludingMiniatures": 56,
+    "sourceIconInstancesIncludingMiniatures": 30,
+    "textOverflow": [],
+    "visualComparison": "Checked reference and final module screenshot together; retained project palette and adapted content to NEARBY."
+  },
+  "iconAlignmentFix": {
+    "cause": "Instance frames resized without proportionally scaling their vector contents",
+    "vectorOverflow": [],
+    "correction": "Restore native dimensions, scale entire instances, align labels and taxonomy markers",
+    "verifiedIcons": 15,
+    "exportSlice": "243:1209"
+  }
+}

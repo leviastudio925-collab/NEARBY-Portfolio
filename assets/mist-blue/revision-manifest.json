@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-11",
+  "fileKey": "ApoghdbZoRBlbBcDctaMXf",
+  "boards": [
+    "383:3293",
+    "84:142",
+    "206:1132",
+    "84:436",
+    "84:480",
+    "315:3274",
+    "428:3252"
+  ],
+  "archive": [
+    "446:3252",
+    "446:3388",
+    "446:3795",
+    "446:4526",
+    "446:5180",
+    "446:6324",
+    "446:6404"
+  ],
+  "palette": {
+    "#253a35": "#2B4052",
+    "#61736d": "#677B8B",
+    "#246b59": "#486F90",
+    "#eaf7f0": "#EDF4F8",
+    "#35574d": "#426681",
+    "#59c3ad": "#8FB5D1",
+    "#4e655e": "#5A7082",
+    "#fff9ef": "#F7FAFC",
+    "#c9ded3": "#C9D9E5",
+    "#f7b68d": "#B5CFE2",
+    "#667b73": "#71889B",
+    "#d2f0e3": "#DCEAF4",
+    "#e2efdb": "#DFEAF3",
+    "#f2f7f3": "#F3F7FA",
+    "#83998b": "#8DABBF",
+    "#8bcdb8": "#ACCBE0",
+    "#42685b": "#436F90",
+    "#49665c": "#486880",
+    "#4a6455": "#506F88",
+    "#dceee3": "#E4EEF5",
+    "#eff8f1": "#F2F7FB",
+    "#edf7f0": "#EEF5FA",
+    "#ffead8": "#E4EDF5",
+    "#e2ddd4": "#E0EAF2",
+    "#f5f3ef": "#F3F6F9",
+    "#d9f0e3": "#E2EEF7",
+    "#19172f": "#2B4052",
+    "#6d6b7c": "#677B8B",
+    "#f9c08f": "#A8C7DE",
+    "#eaf0ff": "#EAF2FA",
+    "#cdd4ca": "#D5E1EB",
+    "#76998a": "#9FBDD2",
+    "#527a6e": "#719AB9",
+    "#1f3b30": "#355C7A",
+    "#a6c8b8": "#B9D2E5",
+    "#29443f": "#4D7899",
+    "#453e38": "#496B85",
+    "#999189": "#A5B8C7",
+    "#f5e8aa": "#DCEAF5",
+    "#30302e": "#2B4052",
+    "#383733": "#354B5D",
+    "#34312d": "#304859",
+    "#2f2f2f": "#2B4052"
+  },
+  "copyEdits": {
+    "383:3306": "What is NEARBY?",
+    "383:3309": "A self-following, height-adjustable tea table that keeps drinks and everyday essentials close as young adults move between their favourite places to relax.",
+    "383:3312": "Read on the balcony, then unwind by the sofa. Your tea setup comes along, without carrying the table or gathering everything again.",
+    "383:3332": "AWAY",
+    "383:3341": "Effortless downtime, wherever you sit",
+    "383:3390": "Design aim: let the tea break move with the person.\nCombine controlled following and parked-height adjustment, with compact manual transport for short stays.",
+    "383:3398": "Effortless downtime",
+    "383:3413": "Self-following tea table / Adjustable height / Portable setup",
+    "383:3418": "NEARBY is a self-following, height-adjustable tea table for young adults who want effortless downtime. Drinks, a book and a phone stay together as they move between the balcony and the sofa. A compact transport concept extends this familiar setup to short stays.",
+    "383:3419": "How Might We",
+    "383:3420": "How might we help young adults move between their favourite places to relax, without carrying a table or setting up their tea break all over again?",
+    "383:3421": "Through this project,\nI explore how furniture can follow the rhythm of a break,\nadapting to where a person sits and how they relax.",
+    "192:1163": "Scenario Analysis & Insights",
+    "192:1181": "Homebody",
+    "192:1182": "Young adult · tea and reading\nMoves between favourite seats",
+    "237:1779": "STAY stops; HEIGHT adjusts.",
+    "247:1189": "Camera + local matching.\nLift and follow commands.\nVisible stopped states.",
+    "247:1240": "Follow indoors. Park before adjusting height.\nPack and lock before manual transport.",
+    "248:1488": "Return to a clear charging spot.\nReview the room layout at each\nnew short-stay accommodation.",
+    "257:1693": "STM32H743 + OV2640 selected for local matching.\nCore code tested on PC; board testing pending.\nIntegrated following and control tests are next.",
+    "257:1698": "FOLLOW · STAY · HEIGHT\nFollow or stop.\nAdjust once parked.",
+    "257:1702": "Four actuators lift the tray.\nSet the height to suit\nyour next seat.",
+    "299:2954": "Review the room,\nsave a place and\nkeep your tea\nsetup ready.",
+    "299:2956": "Save a favourite place\nand tabletop height.",
+    "I299:3128;127:214": "Review room layout",
+    "299:2984": "Tabletop height · your preference",
+    "427:3246": "Parked · wheel drive disabled",
+    "320:4862": "This project reframes convenience as keeping a break together while moving between spaces. The next step is to compare NEARBY with carrying a conventional table, testing following, stopping and drink stability. The travel extension also needs checks for lifting effort, locks and vehicle fit.",
+    "413:3234": "AI concept simulation · movement behaviour and drink stability not yet validated",
+    "428:3274": "Transport concept study · proposed hardware and mode logic · original lift-box geometry retained · Blender renders + AI concept car scene"
+  },
+  "imagery": {
+    "method": "Built-in image generation, colour edits of supplied original concept renders; authentic prototype photographs preserved",
+    "sources": [
+      {
+        "source": "383:3409",
+        "hash": "a34b5e694614d04ac530be631effb0f92ed9c6d1",
+        "id": "446:6427",
+        "w": 1122,
+        "h": 1402
+      },
+      {
+        "source": "257:1694",
+        "hash": "1a3b0da0a6f105fa530b3fa419b7719085b5341f",
+        "id": "446:6428",
+        "w": 1122,
+        "h": 1402
+      },
+      {
+        "source": "320:4860",
+        "hash": "2abdce4cdc89b9511594f90194dfb654ea28941a",
+        "id": "446:6429",
+        "w": 1536,
+        "h": 1024
+      },
+      {
+        "source": "257:1635",
+        "hash": "569cc027d367f9ac0108cd4102cee4525fbbb02c",
+        "id": "446:6430",
+        "w": 1600,
+        "h": 1280
+      },
+      {
+        "source": "428:3258",
+        "hash": "389b966c4ac9eae406b0e9dbca2ab0a8cc83f3aa",
+        "id": "446:6431",
+        "w": 1400,
+        "h": 1100
+      },
+      {
+        "source": "428:3262",
+        "hash": "8fa7dd9279d4d4e31a0c8d370f19e075e1b8af55",
+        "id": "446:6432",
+        "w": 1400,
+        "h": 1100
+      },
+      {
+        "source": "428:3266",
+        "hash": "be3d6010d3ebb2e7deebcd187696ee600a9ce221",
+        "id": "446:6433",
+        "w": 1536,
+        "h": 1024
+      },
+      {
+        "source": "251:1350",
+        "hash": "a8bfe163d69cce1f0451e41de8ada5ba1c32ec5c",
+        "id": "446:6434",
+        "w": 1600,
+        "h": 1280
+      },
+      {
+        "source": "251:1354",
+        "hash": "d4775d321b1c067219cedf5b03a43d70e2c6148d",
+        "id": "446:6435",
+        "w": 1600,
+        "h": 1280
+      },
+      {
+        "source": "261:1261",
+        "hash": "0c58938f4d77d046734fafead0d273d4fbb58578",
+        "id": "446:6436",
+        "w": 1600,
+        "h": 1280
+      },
+      {
+        "source": "261:1264",
+        "hash": "7c37245bbf82bf2757e6f7b5d589d3c7eabc0676",
+        "id": "446:6437",
+        "w": 1540,
+        "h": 320
+      }
+    ],
+    "hashReplacements": {
+      "a34b5e694614d04ac530be631effb0f92ed9c6d1": "8fbd71af0a25d28754c26b1dc8c1cc8e8198cc7d",
+      "1a3b0da0a6f105fa530b3fa419b7719085b5341f": "9e4b03e7dd89ba27410f122da916cfb7a5da21f8",
+      "2abdce4cdc89b9511594f90194dfb654ea28941a": "124969ac84ec6dce549d131557302478125bc781",
+      "569cc027d367f9ac0108cd4102cee4525fbbb02c": "a77079b90f3c8c5b97e1a70b998024a7fa2213bb",
+      "389b966c4ac9eae406b0e9dbca2ab0a8cc83f3aa": "5cffd7f298d1da94f37dc2e55af7c9b5c4d36b8d",
+      "8fa7dd9279d4d4e31a0c8d370f19e075e1b8af55": "40583ca8b211fbcc7d4e42b9345ab403288257c1",
+      "be3d6010d3ebb2e7deebcd187696ee600a9ce221": "533ad4ed6cac0dfe4c9d716cd5aa5257c31885a2",
+      "a8bfe163d69cce1f0451e41de8ada5ba1c32ec5c": "c456dd707aa8011f6c3843c417480b4f85ab7c2d",
+      "d4775d321b1c067219cedf5b03a43d70e2c6148d": "217f2f858a917d371398a0bca2f5e7fac4c61316",
+      "0c58938f4d77d046734fafead0d273d4fbb58578": "a4050ffbb1ab5f694aa5c8dae0537ccfc8717dba",
+      "7c37245bbf82bf2757e6f7b5d589d3c7eabc0676": "54b36cfe9e36c8c60aac92f693ee3c76dbc23b68"
+    },
+    "scenes": [
+      {
+        "i": 0,
+        "prompt": "Use case: precise-object-edit. Edit the supplied original NEARBY product scenario image, preserving exactly the camera framing, aspect ratio, people, their poses, room geometry, product geometry, four lift posts, two drawers, wheels and all object positions. This is a COLOUR AND MATERIAL UPDATE ONLY. Change all orange accents on the device (FOLLOW and HEIGHT buttons, trim strips, bottle cap, locks if present) to a soft mist blue #8FB5D1. Keep the STAY button dark cool slate #344959 and its white lettering. Change the product ivory plastic to porcelain white with cool grey shadows, retain brushed aluminium posts and a dark slate wheel base. Preserve readable exact device labels FOLLOW / STAY / HEIGHT and the original screen status. Make the overall scene bright soft daylight, white and cool grey, with a subtle pale blue tone matching refined consumer electronics imagery; reduce the current strong golden/yellow cast. Keep natural skin tones and natural plant greens; do not tint people blue. Do not change the product design, add objects, add captions, or add graphics. Retain photographic realism and the original composition very precisely. Image shows young adult leisure: preserve the same person."
+      },
+      {
+        "i": 1,
+        "prompt": "Use case: precise-object-edit. Edit the supplied original NEARBY product scenario image, preserving exactly the camera framing, aspect ratio, people, their poses, room geometry, product geometry, four lift posts, two drawers, wheels and all object positions. This is a COLOUR AND MATERIAL UPDATE ONLY. Change all orange accents on the device (FOLLOW and HEIGHT buttons, trim strips, bottle cap, locks if present) to a soft mist blue #8FB5D1. Keep the STAY button dark cool slate #344959 and its white lettering. Change the product ivory plastic to porcelain white with cool grey shadows, retain brushed aluminium posts and a dark slate wheel base. Preserve readable exact device labels FOLLOW / STAY / HEIGHT and the original screen status. Make the overall scene bright soft daylight, white and cool grey, with a subtle pale blue tone matching refined consumer electronics imagery; reduce the current strong golden/yellow cast. Keep natural skin tones and natural plant greens; do not tint people blue. Do not change the product design, add objects, add captions, or add graphics. Retain photographic realism and the original composition very precisely. Image shows young adult leisure: preserve the same person."
+      },
+      {
+        "i": 2,
+        "prompt": "Use case: precise-object-edit. Edit the supplied original NEARBY product scenario image, preserving exactly the camera framing, aspect ratio, people, their poses, room geometry, product geometry, four lift posts, two drawers, wheels and all object positions. This is a COLOUR AND MATERIAL UPDATE ONLY. Change all orange accents on the device (FOLLOW and HEIGHT buttons, trim strips, bottle cap, locks if present) to a soft mist blue #8FB5D1. Keep the STAY button dark cool slate #344959 and its white lettering. Change the product ivory plastic to porcelain white with cool grey shadows, retain brushed aluminium posts and a dark slate wheel base. Preserve readable exact device labels FOLLOW / STAY / HEIGHT and the original screen status. Make the overall scene bright soft daylight, white and cool grey, with a subtle pale blue tone matching refined consumer electronics imagery; reduce the current strong golden/yellow cast. Keep natural skin tones and natural plant greens; do not tint people blue. Do not change the product design, add objects, add captions, or add graphics. Retain photographic realism and the original composition very precisely. Image shows young adult leisure: preserve the same person."
+      },
+      {
+        "i": 6,
+        "prompt": "Use case: precise-object-edit. Edit the supplied original NEARBY product scenario image, preserving exactly the camera framing, aspect ratio, people, their poses, room geometry, product geometry, four lift posts, two drawers, wheels and all object positions. This is a COLOUR AND MATERIAL UPDATE ONLY. Change all orange accents on the device (FOLLOW and HEIGHT buttons, trim strips, bottle cap, locks if present) to a soft mist blue #8FB5D1. Keep the STAY button dark cool slate #344959 and its white lettering. Change the product ivory plastic to porcelain white with cool grey shadows, retain brushed aluminium posts and a dark slate wheel base. Preserve readable exact device labels FOLLOW / STAY / HEIGHT and the original screen status. Make the overall scene bright soft daylight, white and cool grey, with a subtle pale blue tone matching refined consumer electronics imagery; reduce the current strong golden/yellow cast. Keep natural skin tones and natural plant greens; do not tint people blue. Do not change the product design, add objects, add captions, or add graphics. Retain photographic realism and the original composition very precisely. Image shows a packed table in a car boot: preserve the securing strap and all transport hardware."
+      }
+    ],
+    "products": [
+      {
+        "status": "fulfilled",
+        "value": {
+          "i": 3,
+          "prompt": "Use case: precise-object-edit. Recolour this existing NEARBY 3D product render only. Preserve its exact geometry, camera view, relative scale and placement within the canvas, aspect ratio, transparent background, two drawers, wheels, lift posts, screen, handles and all mechanical details. Change EVERY peach/orange accent (buttons, trim, latches, bottle lid, book cover and coaster) to refined pale mist blue #8FB5D1. The main body remains porcelain white with cool grey shading; aluminium stays silver. The dark grey base and STAY button become dark cool slate #344959. Preserve exact existing readable text: FOLLOW, STAY, HEIGHT and NEARBY, and any screen lettering. Maintain same original arrangement and crop. No new components, no artistic restyling, no added labels, no backdrop. Output a clean professional product render on true transparent background, identical composition to the input, with only this white/mist-blue/cool-grey colour update."
+        }
+      },
+      {
+        "status": "fulfilled",
+        "value": {
+          "i": 4,
+          "prompt": "Use case: precise-object-edit. Recolour this existing NEARBY 3D product render only. Preserve its exact geometry, camera view, relative scale and placement within the canvas, aspect ratio, transparent background, two drawers, wheels, lift posts, screen, handles and all mechanical details. Change EVERY peach/orange accent (buttons, trim, latches, bottle lid, book cover and coaster) to refined pale mist blue #8FB5D1. The main body remains porcelain white with cool grey shading; aluminium stays silver. The dark grey base and STAY button become dark cool slate #344959. Preserve exact existing readable text: FOLLOW, STAY, HEIGHT and NEARBY, and any screen lettering. Maintain same original arrangement and crop. No new components, no artistic restyling, no added labels, no backdrop. Output a clean professional product render on true transparent background, identical composition to the input, with only this white/mist-blue/cool-grey colour update."
+        }
+      },
+      {
+        "status": "fulfilled",
+        "value": {
+          "i": 5,
+          "prompt": "Use case: precise-object-edit. Recolour this existing NEARBY 3D product render only. Preserve its exact geometry, camera view, relative scale and placement within the canvas, aspect ratio, transparent background, two drawers, wheels, lift posts, screen, handles and all mechanical details. Change EVERY peach/orange accent (buttons, trim, latches, bottle lid, book cover and coaster) to refined pale mist blue #8FB5D1. The main body remains porcelain white with cool grey shading; aluminium stays silver. The dark grey base and STAY button become dark cool slate #344959. Preserve exact existing readable text: FOLLOW, STAY, HEIGHT and NEARBY, and any screen lettering. Maintain same original arrangement and crop. No new components, no artistic restyling, no added labels, no backdrop. Output a clean professional product render on true transparent background, identical composition to the input, with only this white/mist-blue/cool-grey colour update."
+        }
+      },
+      {
+        "status": "fulfilled",
+        "value": {
+          "i": 7,
+          "prompt": "Use case: precise-object-edit. Recolour this existing NEARBY 3D product render only. Preserve its exact geometry, camera view, relative scale and placement within the canvas, aspect ratio, transparent background, two drawers, wheels, lift posts, screen, handles and all mechanical details. Change EVERY peach/orange accent (buttons, trim, latches, bottle lid, book cover and coaster) to refined pale mist blue #8FB5D1. The main body remains porcelain white with cool grey shading; aluminium stays silver. The dark grey base and STAY button become dark cool slate #344959. Preserve exact existing readable text: FOLLOW, STAY, HEIGHT and NEARBY, and any screen lettering. Maintain same original arrangement and crop. No new components, no artistic restyling, no added labels, no backdrop. Output a clean professional product render on true transparent background, identical composition to the input, with only this white/mist-blue/cool-grey colour update."
+        }
+      },
+      {
+        "status": "fulfilled",
+        "value": {
+          "i": 8,
+          "prompt": "Use case: precise-object-edit. Recolour this existing NEARBY 3D product render only. Preserve its exact geometry, camera view, relative scale and placement within the canvas, aspect ratio, transparent background, two drawers, wheels, lift posts, screen, handles and all mechanical details. Change EVERY peach/orange accent (buttons, trim, latches, bottle lid, book cover and coaster) to refined pale mist blue #8FB5D1. The main body remains porcelain white with cool grey shading; aluminium stays silver. The dark grey base and STAY button become dark cool slate #344959. Preserve exact existing readable text: FOLLOW, STAY, HEIGHT and NEARBY, and any screen lettering. Maintain same original arrangement and crop. No new components, no artistic restyling, no added labels, no backdrop. Output a clean professional product render on true transparent background, identical composition to the input, with only this white/mist-blue/cool-grey colour update."
+        }
+      },
+      {
+        "status": "fulfilled",
+        "value": {
+          "i": 9,
+          "prompt": "Use case: precise-object-edit. Recolour this existing NEARBY 3D product render only. Preserve its exact geometry, camera view, relative scale and placement within the canvas, aspect ratio, transparent background, two drawers, wheels, lift posts, screen, handles and all mechanical details. Change EVERY peach/orange accent (buttons, trim, latches, bottle lid, book cover and coaster) to refined pale mist blue #8FB5D1. The main body remains porcelain white with cool grey shading; aluminium stays silver. The dark grey base and STAY button become dark cool slate #344959. Preserve exact existing readable text: FOLLOW, STAY, HEIGHT and NEARBY, and any screen lettering. Maintain same original arrangement and crop. No new components, no artistic restyling, no added labels, no backdrop. Output a clean professional product render on true transparent background, identical composition to the input, with only this white/mist-blue/cool-grey colour update."
+        }
+      },
+      {
+        "status": "fulfilled",
+        "value": {
+          "i": 10,
+          "prompt": "Use case: precise-object-edit. Recolour this existing NEARBY 3D product render only. Preserve its exact geometry, camera view, relative scale and placement within the canvas, aspect ratio, transparent background, two drawers, wheels, lift posts, screen, handles and all mechanical details. Change EVERY peach/orange accent (buttons, trim, latches, bottle lid, book cover and coaster) to refined pale mist blue #8FB5D1. The main body remains porcelain white with cool grey shading; aluminium stays silver. The dark grey base and STAY button become dark cool slate #344959. Preserve exact existing readable text: FOLLOW, STAY, HEIGHT and NEARBY, and any screen lettering. Maintain same original arrangement and crop. No new components, no artistic restyling, no added labels, no backdrop. Output a clean professional product render on true transparent background, identical composition to the input, with only this white/mist-blue/cool-grey colour update."
+        }
+      }
+    ]
+  },
+  "audit": {
+    "visibleOldPositioningTerms": 0,
+    "scope": "Six main boards plus portable transport supporting board",
+    "preserved": "Current user edits; original layouts; real assembly photographs; newly added code screenshots",
+    "remainingValidation": "Physical following, stopping, drink stability, integrated board control, transport locks, packed mass and vehicle fit require empirical testing as labelled in the portfolio."
+  }
+}

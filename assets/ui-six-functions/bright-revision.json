@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-09",
+  "direction": "Retain the existing NEARBY warm-orange, ivory and warm-gray palette. Replace charcoal app backgrounds with light ivory, white cards and dark readable text. Preserve orange actions and all imagery.",
+  "scope": "30 mobile working, prototype and Board 06 presentation frames; Board 05 right half replaced with a reference-inspired app showcase.",
+  "board05": "84:480",
+  "showcase": "294:2752",
+  "archiveDarkWorkingUI": "293:2295",
+  "archivePreviousBoard05": "293:2878",
+  "composition": "Large central Home screen with surrounding People, Find, Storage, Family sent/reply and Remote screens. Native editable text, screen frames and fine connectors.",
+  "prototypeLinks": "Existing prototype reactions preserved.",
+  "verification": "Home light theme and showcase visually inspected; connector routes corrected to avoid copy and screens; STAY control given a warm fill and visible border."
+}

@@ -1,0 +1,17 @@
+Generation method: built-in image_gen
+Date: 2026-10-09
+References: assets/form_perspective.png; assets/studio_follow.png; assets/tray_detail.png
+
+Create a polished industrial-design hand sketch sheet of the NEARBY mobile essentials cabinet, based faithfully on the three supplied product renders. The supplied images are PRODUCT IDENTITY REFERENCES, not layout references. Transform the rendered product into expressive hand-drawn industrial design sketches on clean white paper. Landscape 3:2 canvas, high resolution, generous margins, six distinct drawings in a balanced 3-column by 2-row composition with no enclosing panel boxes.
+
+Product invariants in EVERY relevant view: a compact rounded rectangular cabinet with exactly TWO stacked front drawers and thin horizontal pulls; wide low dark wheeled plinth with four small wheels; shallow rectangular top tray with softly raised protective rim; the tray raises vertically above the cabinet on FOUR slender telescoping corner posts (some may be occluded in perspective); exactly THREE large rectangular tactile controls on front tray edge reading COME, STAY, HELP in that left-to-right order; narrow amber status strip just above controls; small landscape status display on a short stem at rear of tray. White/light warm gray body, charcoal base, muted warm orange controls/accents. Familiar essentials on tray: eyeglasses, phone, tissue box, water bottle. Preserve the recognisable silhouette and proportions from references. No robot face, no extra drawers, no redesign into a walker, no scissors lift.
+
+Six drawings with small readable English labels only:
+01 COMPACT — front three-quarter view of entire unit with tray lowered close to cabinet, drawers closed.
+02 RAISED — front three-quarter entire unit with tray raised on four posts, subtle orange up/down arrow to explain the motion.
+03 SIDE STUDY — clean side elevation with solid raised tray and very light ghosted lower tray position, functional proportional study with NO invented dimension numbers.
+04 TRAY LAYOUT — overhead view of tray with familiar item positions and three front buttons clearly ordered COME STAY HELP.
+05 DIRECT CONTROLS — larger perspective detail of tray front edge, showing exactly those three keys and thin feedback strip, fingertips pressing central STAY key; no extra keypad.
+06 BESIDE THE CHAIR — small restrained contextual sketch of the SAME unit parked next to an ordinary upholstered lounge chair; a lightly drawn seated adult hand reaching toward tray; chair and person in faint construction lines, product remains strongest.
+
+Style: authentic designer pencil and fine black pen drawings, varied line weight, visible confident construction strokes, subtle gray marker shadows, a few warm orange marker accents #F28A2E. Looks like a thoughtful industrial design sketchbook, not a photorealistic render, not an infographic, not a CAD drawing. White spacious background. Small upper-left title NEARBY / PRODUCT SKETCHES. Drawings separated enough to be cropped individually. No long annotation paragraphs, no clutter, no logos or watermark. Mechanism views are conceptual form studies, not fabricated engineering cutaways.

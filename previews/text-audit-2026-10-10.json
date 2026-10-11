@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-10",
+  "fileKey": "ApoghdbZoRBlbBcDctaMXf",
+  "before": [
+    {
+      "id": "383:3293",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"board\":\"383:3293\",\"name\":\"01 / Background + Everyday home context\",\"texts\":[{\"id\":\"383:3302\",\"t\":\"Background\"},{\"id\":\"383:3306\",\"t\":\"What is dementia?\"},{\"id\":\"383:3309\",\"t\":\"Dementia describes conditions that affect memory, thinking and daily activities. It is not an inevitable part of ageing. Symptoms and support needs differ between people. [1]\"},{\"id\":\"383:3312\",\"t\":\"Begin with daily life at home: finding familiar objects, moving and reaching, and knowing when to ask for help. Understand shared routines before proposing a response.\"},{\"id\":\"383:3316\",\"t\":\"Project Context: Everyday Life at Home\"},{\"id\":\"383:3321\",\"t\":\"Care interaction\"},{\"id\":\"383:3324\",\"t\":\"Home circulation\"},{\"id\":\"383:3329\",\"t\":\"57m\"},{\"id\":\"383:3330\",\"t\":\"People worldwide\\n(2021)\"},{\"id\":\"383:3332\",\"t\":\"~10m\"},{\"id\":\"383:3333\",\"t\":\"New cases\\neach year\"},{\"id\":\"383:3335\",\"t\":\"60–70%\"},{\"id\":\"383:3336\",\"t\":\"Alzheimer's share\\nof dementia\"},{\"id\":\"383:3338\",\"t\":\"5h / day\"},{\"id\":\"383:3339\",\"t\":\"Average informal care [1]\"},{\"id\":\"383:3340\",\"t\":\"The Home Setting\"},{\"id\":\"383:3341\",\"t\":\"Objects, rooms and shared routines\"},{\"id\":\"383:3344\",\"t\":\"Main Characteristics\"},{\"id\":\"383:3349\",\"t\":\"Recognition & familiarity\"},{\"id\":\"383:3350\",\"t\":\"Keep everyday objects in recognisable places. Explore visual cues and personal habits. [2]\"},{\"id\":\"383:3354\",\"t\":\"Access through the home\"},{\"id\":\"383:3355\",\"t\":\"Keep routes clear and review reach with the person. Study distances and positions before adding movement. [2]\"},{\"id\":\"383:3359\",\"t\":\"Shared care & communication\"},{\"id\":\"383:3360\",\"t\":\"Agree how help is requested and acknowledged. Include the person in decisions about support.\"},{\"id\":\"383:3362\",\"t\":\"Sources: [1] WHO (2026).  [2] Alzheimer's Society · Home guidance. Photos: Jsme MILA + Peter Vang / Pexels · context photographs.\"},{\"id\":\"383:3365\",\"t\":\"Current Situation\"},{\"id\":\"383:3368\",\"t\":\"Memory and perceptual changes can make familiar tasks\\nharder. Examine everyday access, routines and shared support with the person and their caregiver. [1,2]\"},{\"id\":\"383:3371\",\"t\":\"Searching\"},{\"id\":\"383:3373\",\"t\":\"/ items out of sight\\n/ unclear usual place\\n/ repeated searching\"},{\"id\":\"383:3375\",\"t\":\"Reaching\"},{\"id\":\"383:3377\",\"t\":\"/ distance to an item\\n/ awkward positions\\n/ routes to review\"},{\"id\":\"383:3379\",\"t\":\"Asking\"},{\"id\":\"383:3381\",\"t\":\"/ knowing whom to ask\\n/ expressing a need\\n/ checking a response\"},{\"id\":\"383:3385\",\"t\":\"Opportunity Direction\"},{\"id\":\"383:3386\",\"t\":\"Person-led routine\"},{\"id\":\"383:3387\",\"t\":\"Shared assistance\"},{\"id\":\"383:3388\",\"t\":\"Keep familiar places;\\npreserve personal choice.\"},{\"id\":\"383:3389\",\"t\":\"Agree how help is requested\\nand how a reply is understood.\"},{\"id\":\"383:3390\",\"t\":\"Design aim: keep familiar objects easy to recognise, while making access and support more predictable.\\nExplore agreed places, person-led requests and clear feedback with the person and their caregiver.\"},{\"id\":\"383:3392\",\"t\":\"Person\"},{\"id\":\"383:3393\",\"t\":\"Caregiver\"},{\"id\":\"383:3394\",\"t\":\"Familiar objects\\nPersonal preferences\\nChoice and control\"},{\"id\":\"383:3395\",\"t\":\"Agreed routines\\nRequested assistance\\nShared upkeep\"},{\"id\":\"383:3398\",\"t\":\"Everyday\\nsupport\"},{\"id\":\"383:3407\",\"t\":\"Potential access\\nand support gap\"},{\"id\":\"383:3408\",\"t\":\"Familiar cues\\n/Predictable object locations\\n/Reachable routes\\n/Available caregiver support\"},{\"id\":\"383:3410\",\"t\":\"NEARBY\"},{\"id\":\"383:3411\",\"t\":\"Familiar things. Within reach.\"},{\"id\":\"383:3412\",\"t\":\"Keywords\"},{\"id\":\"383:3413\",\"t\":\"Ageing at home / Assistive furniture / User autonomy\"},{\"id\":\"383:3414\",\"t\":\"Figma / Blender / STM32H743 / OV2640\"},{\"id\":\"383:3415\",\"t\":\"Tools\"},{\"id\":\"383:3417\",\"t\":\"Introduction\"},{\"id\":\"383:3418\",\"t\":\"NEARBY is a mobile assistive cabinet designed to help older adults keep everyday essentials within reach. It combines familiar storage, an adjustable tray and simple COME / STAY / HELP controls. A companion app and family dashboard support item finding, remote assistance and communication.\"},{\"id\":\"383:3419\",\"t\":\"Goal\"},{\"id\":\"383:3420\",\"t\":\"The goal is to support everyday independence while keeping assistance easy to understand and control. Clear feedback shows what the device is doing, while users decide when it approaches, pauses or requests help. Family members can stay informed through remote monitoring with the user’s permission.\"},{\"id\":\"383:3421\",\"t\":\"Through this project,\\nI explored how physical assistance and digital care can support independence while preserving privacy and choice.\"},{\"id\":\"383:3422\",\"t\":\"Physical prototype · Interface design\\nOffline recognition prototype\"}]}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "id": "84:142",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"board\":\"84:142\",\"name\":\"02 / Research framing + Current everyday journey\",\"texts\":[{\"id\":\"188:1163\",\"t\":\"Field Research\"},{\"id\":\"188:1164\",\"t\":\"Complaints of a Dutiful Daughter (1994) · Documentary review\\nOne family’s experience; questions for later fieldwork.\"},{\"id\":\"188:1166\",\"t\":\"Pain Points Classification\"},{\"id\":\"188:1169\",\"t\":\"Human–Object Interaction: Finding and interpreting cues\"},{\"id\":\"188:1172\",\"t\":\"Overlapping\\nreminders\"},{\"id\":\"188:1174\",\"t\":\"Outdated\\ncues\"},{\"id\":\"188:1177\",\"t\":\"Items stored\\nout of sight\"},{\"id\":\"188:1179\",\"t\":\"Hard to\\nlocate\"},{\"id\":\"188:1182\",\"t\":\"Losing the\\ntask goal\"},{\"id\":\"188:1184\",\"t\":\"Repeated\\nprompting\"},{\"id\":\"188:1187\",\"t\":\"ADMIT ONE\"},{\"id\":\"188:1188\",\"t\":\"USED\"},{\"id\":\"188:1191\",\"t\":\"Past or\\nupcoming?\"},{\"id\":\"188:1193\",\"t\":\"Repeating\\nan action\"},{\"id\":\"188:1194\",\"t\":\"Context stills + transcript [1] 06:25–08:43 · 10:52–11:22 · 12:00–12:25\"},{\"id\":\"188:1196\",\"t\":\"Human–Human Interaction: Support across daily tasks\"},{\"id\":\"188:1203\",\"t\":\"1. Reassurance\"},{\"id\":\"188:1204\",\"t\":\"2. Task support\"},{\"id\":\"188:1205\",\"t\":\"3. Shared attention\"},{\"id\":\"188:1207\",\"t\":\"Repeated calls\\n[1] 09:04–10:45\\n\\nCare takes more time\\n[1] 12:54–13:06\"},{\"id\":\"188:1210\",\"t\":\"Human–Routine Interaction: Design questions to explore\"},{\"id\":\"188:1218\",\"t\":\"KEYS\"},{\"id\":\"188:1222\",\"t\":\"TODAY\"},{\"id\":\"188:1223\",\"t\":\"One step\"},{\"id\":\"188:1227\",\"t\":\"✓\"},{\"id\":\"188:1228\",\"t\":\"DONE\"},{\"id\":\"188:1229\",\"t\":\"1. Familiar places?\"},{\"id\":\"188:1230\",\"t\":\"2. One current cue?\"},{\"id\":\"188:1231\",\"t\":\"3. Shared checks?\"},{\"id\":\"188:1233\",\"t\":\"Could familiar storage\\nand clear task status\\nreduce repeated effort?\\n\\nTo test with families.\"},{\"id\":\"188:1234\",\"t\":\"[1] Docuseek transcript · [2] PBS trailer · [3] Film publicity / Swarthmore\"},{\"id\":\"192:1163\",\"t\":\"User Research & Insights\"},{\"id\":\"192:1165\",\"t\":\"Users Classification\"},{\"id\":\"192:1168\",\"t\":\"Problem Redefinition\"},{\"id\":\"192:1171\",\"t\":\"Design Lens: Cognitive Demands\"},{\"id\":\"192:1181\",\"t\":\"Person with dementia\"},{\"id\":\"192:1182\",\"t\":\"Familiar items and routines\\nChoice, recognition, reassurance\"},{\"id\":\"192:1191\",\"t\":\"Family caregiver\"},{\"id\":\"192:1192\",\"t\":\"Daily prompts and shared tasks\\nClear status, easier coordination\"},{\"id\":\"192:1199\",\"t\":\"Care professional\"},{\"id\":\"192:1200\",\"t\":\"Home context and support needs\\nConsent, access, individual fit\"},{\"id\":\"192:1201\",\"t\":\"Roles to recruit; not completed interviews.\"},{\"id\":\"192:1202\",\"t\":\"Where can an everyday task become difficult?\\nThree questions from the documentary review.\"},{\"id\":\"192:1211\",\"t\":\"Finding familiar\\nitems\"},{\"id\":\"192:1212\",\"t\":\"Where was it left?\\nCan a stable layout\\nmake it recognizable?\"},{\"id\":\"192:1220\",\"t\":\"Keeping the\\ntask in mind\"},{\"id\":\"192:1221\",\"t\":\"Can an interruption\\nmake the next step\\nharder to remember?\"},{\"id\":\"192:1229\",\"t\":\"Knowing when\\nto ask for help\"},{\"id\":\"192:1230\",\"t\":\"Can support be\\nrequested without\\nrestarting the task?\"},{\"id\":\"192:1231\",\"t\":\"Design opportunity: familiar cues + understandable task status.\"},{\"id\":\"192:1232\",\"t\":\"• Memory aids should fit a person’s existing skills and routines. \\n• Completed reminders need updating so that old cues do not persist.\"},{\"id\":\"192:1235\",\"t\":\"POSSIBLE EXPERIENCES\"},{\"id\":\"192:1240\",\"t\":\"Unsure\"},{\"id\":\"192:1245\",\"t\":\"Searching\"},{\"id\":\"192:1250\",\"t\":\"Frustrated\"},{\"id\":\"192:1255\",\"t\":\"Reassured\"},{\"id\":\"192:1257\",\"t\":\"Task\\ndemands\"},{\"id\":\"192:1261\",\"t\":\"Perceived\\neffort\"},{\"id\":\"192:1265\",\"t\":\"Support\\nneeded\"},{\"id\":\"192:1266\",\"t\":\"Explore how cues, interruptions and support shape the task.\\nRelationships and feelings shown here are hypotheses for co-design.\"},{\"id\":\"192:1267\",\"t\":\"[4] Alzheimer’s Society · Memory aids and tools\"},{\"id\":\"192:1269\",\"t\":\"User Journey & Cognitive Map\"},{\"id\":\"192:1271\",\"t\":\"SCENARIO / Finding a familiar item at home · composite hypothesis\"},{\"id\":\"192:1272\",\"t\":\"Possible\\nquestions\"},{\"id\":\"192:1273\",\"t\":\"Cognitive\\ndemands\"},{\"id\":\"192:1274\",\"t\":\"Stages\"},{\"id\":\"192:1275\",\"t\":\"Emotional\\nexperience\"},{\"id\":\"192:1276\",\"t\":\"Actions\"},{\"id\":\"192:1282\",\"t\":\"What was I\\ngoing to do?\"},{\"id\":\"192:1283\",\"t\":\"Remember the goal\"},{\"id\":\"192:1285\",\"t\":\"NOTICE\"},{\"id\":\"192:1291\",\"t\":\"Notice a need\"},{\"id\":\"192:1295\",\"t\":\"Where did I\\nput it?\"},{\"id\":\"192:1296\",\"t\":\"Recall its location\"},{\"id\":\"192:1298\",\"t\":\"LOCATE\"},{\"id\":\"192:1304\",\"t\":\"Look inside the drawer\"},{\"id\":\"192:1308\",\"t\":\"Why did I come\\ninto this room?\"},{\"id\":\"192:1309\",\"t\":\"Keep the goal in mind\"},{\"id\":\"192:1311\",\"t\":\" MOVE\"},{\"id\":\"192:1317\",\"t\":\"Move between rooms\"},{\"id\":\"192:1321\",\"t\":\"Is this what\\nI was looking for?\"},{\"id\":\"192:1322\",\"t\":\"Identify the right item\"},{\"id\":\"192:1324\",\"t\":\"RECOGNIZE\"},{\"id\":\"192:1330\",\"t\":\"Check the familiar item\"},{\"id\":\"192:1334\",\"t\":\"What should\\nI do next?\"},{\"id\":\"192:1335\",\"t\":\"Follow the next step\"},{\"id\":\"192:1337\",\"t\":\" USE\"},{\"id\":\"192:1347\",\"t\":\"Where does\\nthis belong?\"},{\"id\":\"192:1348\",\"t\":\"Remember its place\"},{\"id\":\"192:1350\",\"t\":\"RETURN\"},{\"id\":\"192:1356\",\"t\":\"Return to storage\"},{\"id\":\"192:1360\",\"t\":\"Who can help\\nme with this?\"},{\"id\":\"192:1361\",\"t\":\"Explain the need\"},{\"id\":\"192:1363\",\"t\":\"ASK\"},{\"id\":\"192:1369\",\"t\":\"Ask for support\"},{\"id\":\"192:1373\",\"t\":\"Can we finish\\nthis together?\"},{\"id\":\"192:1374\",\"t\":\"Resume with support\"},{\"id\":\"192:1376\",\"t\":\"CONTINUE\"},{\"id\":\"192:1382\",\"t\":\"Complete it together\"},{\"id\":\"201:1351\",\"t\":\"1\"},{\"id\":\"201:1352\",\"t\":\"2\"},{\"id\":\"201:1353\",\"t\":\"3\"},{\"id\":\"201:1354\",\"t\":\"4\"},{\"id\":\"201:1355\",\"t\":\"5\"},{\"id\":\"201:1356\",\"t\":\"6\"},{\"id\":\"201:1357\",\"t\":\"1\"},{\"id\":\"201:1358\",\"t\":\"1\"}]}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "id": "206:1132",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"board\":\"206:1132\",\"name\":\"03 / Design concept · technical research · development / Reference aligned 2026-10-09\",\"texts\":[{\"id\":\"221:1180\",\"t\":\"Technical Research\"},{\"id\":\"221:1182\",\"t\":\"Embedded Vision + Motion Control\"},{\"id\":\"221:1191\",\"t\":\"On-device vision  [1]\"},{\"id\":\"221:1192\",\"t\":\"Camera frames are processed on the STM32. Face detection and identity matching are separate steps.\"},{\"id\":\"221:1198\",\"t\":\"Four-point electric lift  [2]\"},{\"id\":\"221:1199\",\"t\":\"A2 motor-driven pushrods raise and lower the platform. Coordinated travel and end limits need verification.\"},{\"id\":\"221:1207\",\"t\":\"Following + phone commands  [3, 4]\"},{\"id\":\"221:1208\",\"t\":\"Target tracking guides the powered wheel base. The phone provides direct commands and status feedback.\"},{\"id\":\"221:1210\",\"t\":\"Basic Structure / Functional Architecture\"},{\"id\":\"221:1214\",\"t\":\"Camera\\nmodule\"},{\"id\":\"221:1216\",\"t\":\"STM32\\nLocal face AI\\n+ control logic\"},{\"id\":\"221:1218\",\"t\":\"Driver\\nstage\"},{\"id\":\"221:1220\",\"t\":\"4 × A2 pushrods\\nPlatform height\"},{\"id\":\"221:1222\",\"t\":\"Powered wheels\\nPerson following\"},{\"id\":\"221:1224\",\"t\":\"Simple phone interface\"},{\"id\":\"221:1227\",\"t\":\"Technology Applications / Reference Examples\"},{\"id\":\"221:1232\",\"t\":\"01\"},{\"id\":\"221:1233\",\"t\":\"Recognize\"},{\"id\":\"221:1234\",\"t\":\"On-device face matching\"},{\"id\":\"221:1235\",\"t\":\"ST application [1]\"},{\"id\":\"221:1239\",\"t\":\"02\"},{\"id\":\"221:1240\",\"t\":\"Lift\"},{\"id\":\"221:1241\",\"t\":\"Electric linear motion\"},{\"id\":\"221:1242\",\"t\":\"Actuator reference [2]\"},{\"id\":\"221:1246\",\"t\":\"03\"},{\"id\":\"221:1247\",\"t\":\"Move\"},{\"id\":\"221:1248\",\"t\":\"Motor-driven wheel base\"},{\"id\":\"221:1249\",\"t\":\"Drive reference [3]\"},{\"id\":\"206:1434\",\"t\":\"[1] ST / FP-AI-FACEREC1   [2] Bansbach / Electric actuators\\n[3] Pololu / 3pi+ 2040   [4] LINAK / Desk Control App\\n\"},{\"id\":\"237:1756\",\"t\":\"Core Topic\"},{\"id\":\"237:1759\",\"t\":\"Keep familiar essentials close through clear requests,\\nagreed stopping places and visible feedback —\\nwith choice at every step.\"},{\"id\":\"237:1764\",\"t\":\"REQUEST\"},{\"id\":\"237:1766\",\"t\":\"FEEDBACK\"},{\"id\":\"237:1776\",\"t\":\"COME brings essentials closer.\"},{\"id\":\"237:1779\",\"t\":\"STAY pauses; HELP asks for care.\"},{\"id\":\"237:1782\",\"t\":\"Visible status explains the result\"},{\"id\":\"237:1785\",\"t\":\"and the next available action.\"},{\"id\":\"237:1790\",\"t\":\"Command\"},{\"id\":\"237:1791\",\"t\":\"Status\"},{\"id\":\"237:1796\",\"t\":\"Request\"},{\"id\":\"237:1833\",\"t\":\"Direct remote\"},{\"id\":\"237:1838\",\"t\":\"Caregiver app\"},{\"id\":\"237:1848\",\"t\":\"NEARBY\"},{\"id\":\"237:1856\",\"t\":\"User\"},{\"id\":\"237:1860\",\"t\":\"1\"},{\"id\":\"237:1861\",\"t\":\"The user chooses COME, STAY or HELP.\"},{\"id\":\"237:1863\",\"t\":\"2\"},{\"id\":\"237:1864\",\"t\":\"The cabinet shows moving, parked or paused.\"},{\"id\":\"237:1866\",\"t\":\"3\"},{\"id\":\"237:1867\",\"t\":\"Stop for STAY or uncertainty; resume only after a new request.\"},{\"id\":\"237:1870\",\"t\":\"Essential Information\"},{\"id\":\"237:1880\",\"t\":\"Next-action information\"},{\"id\":\"237:1881\",\"t\":\"Show only what matters at this step.\"},{\"id\":\"237:1901\",\"t\":\"Glasses · phone\"},{\"id\":\"237:1904\",\"t\":\"Water · tissues\"},{\"id\":\"237:1917\",\"t\":\"Agreed stops\"},{\"id\":\"237:1920\",\"t\":\"Restricted areas\"},{\"id\":\"237:1934\",\"t\":\"Moving · parked\"},{\"id\":\"237:1937\",\"t\":\"Help delivery\"},{\"id\":\"192:1343\",\"t\":\"Put on the glasses\"},{\"id\":\"210:1154\",\"t\":\"Design Concept\"},{\"id\":\"210:1156\",\"t\":\"Solution Integration\"},{\"id\":\"210:1160\",\"t\":\"A familiar place,\\nwithin reach.\"},{\"id\":\"210:1161\",\"t\":\"Mobile essentials and shared care\\nfor people living with dementia.\"},{\"id\":\"210:1167\",\"t\":\"Person / direct remote\"},{\"id\":\"219:1150\",\"t\":\"COME\"},{\"id\":\"219:1161\",\"t\":\"STAY\"},{\"id\":\"219:1171\",\"t\":\"HELP\"},{\"id\":\"210:1191\",\"t\":\"Caregiver app\"},{\"id\":\"219:1191\",\"t\":\"Agree places\"},{\"id\":\"219:1201\",\"t\":\"Review HELP\"},{\"id\":\"219:1211\",\"t\":\"Replenish\"},{\"id\":\"210:1215\",\"t\":\"Cabinet + home map\"},{\"id\":\"219:1233\",\"t\":\"Four slots\"},{\"id\":\"219:1244\",\"t\":\"Agreed stops\"},{\"id\":\"219:1256\",\"t\":\"Visible state\"},{\"id\":\"210:1236\",\"t\":\"Design Goals\"},{\"id\":\"210:1240\",\"t\":\"01\"},{\"id\":\"210:1242\",\"t\":\"Find familiar essentials.\"},{\"id\":\"210:1243\",\"t\":\"Keep glasses, phone, water and tissues in agreed slots.\"},{\"id\":\"210:1245\",\"t\":\"02\"},{\"id\":\"210:1247\",\"t\":\"Control when essentials come closer.\"},{\"id\":\"210:1248\",\"t\":\"Use COME and STAY; pause before reaching for an item.\"},{\"id\":\"210:1250\",\"t\":\"03\"},{\"id\":\"210:1252\",\"t\":\"Ask for help with a clear outcome.\"},{\"id\":\"210:1253\",\"t\":\"Distinguish sending, delivery and the caregiver’s reply.\"},{\"id\":\"210:1266\",\"t\":\"NEARBY\"},{\"id\":\"210:1272\",\"t\":\"Caregiver app\"},{\"id\":\"210:1277\",\"t\":\"Home map\"},{\"id\":\"210:1282\",\"t\":\"Direct remote\"},{\"id\":\"210:1284\",\"t\":\"System Building\"},{\"id\":\"210:1285\",\"t\":\"The cabinet, direct remote and\\ncaregiver app share item, place\\nand request information. The map\\nlinks chosen stops to movement.\"},{\"id\":\"210:1287\",\"t\":\"Technology\"},{\"id\":\"210:1288\",\"t\":\"Demo: lift-box + phone control.\\nNext: mapping + status feedback.\"},{\"id\":\"228:1107\",\"t\":\"Concept Development\"},{\"id\":\"228:1109\",\"t\":\"How Does NEARBY Help?\"},{\"id\":\"228:1117\",\"t\":\"Local\\nrecognition\"},{\"id\":\"228:1119\",\"t\":\"Familiar\\nspace\"},{\"id\":\"228:1121\",\"t\":\"Daily\\nroutine\"},{\"id\":\"228:1123\",\"t\":\"Personal\\nsettings\"},{\"id\":\"228:1125\",\"t\":\"Visible\\nfeedback\"},{\"id\":\"228:1127\",\"t\":\"Simple\\ncontrols\"},{\"id\":\"228:1128\",\"t\":\"+\"},{\"id\":\"228:1129\",\"t\":\"supports\"},{\"id\":\"228:1130\",\"t\":\"guides\"},{\"id\":\"228:1131\",\"t\":\"Connect the recognized person\\nto familiar objects and agreed\\nplaces within the home.\"},{\"id\":\"228:1132\",\"t\":\"Agreed item positions\\nand stopping places.\"},{\"id\":\"228:1134\",\"t\":\"Everyday needs\"},{\"id\":\"228:1137\",\"t\":\"Home environment\"},{\"id\":\"228:1140\",\"t\":\"Everyday objects\"},{\"id\":\"228:1142\",\"t\":\"Advantages to Validate\"},{\"id\":\"228:1149\",\"t\":\"Familiarity\"},{\"id\":\"228:1150\",\"t\":\"Recognize\\nthe arrangement\"},{\"id\":\"228:1155\",\"t\":\"Choice\"},{\"id\":\"228:1156\",\"t\":\"Start and stop\\nwith intent\"},{\"id\":\"228:1161\",\"t\":\"Access\"},{\"id\":\"228:1162\",\"t\":\"Bring items\\nwithin reach\"},{\"id\":\"228:1167\",\"t\":\"Clarity\"},{\"id\":\"228:1168\",\"t\":\"Understand\\ncurrent state\"},{\"id\":\"228:1173\",\"t\":\"Shared care\"},{\"id\":\"228:1174\",\"t\":\"Coordinate\\neveryday help\"}]}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "id": "84:436",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"board\":\"84:436\",\"name\":\"04 / System Design · Touchpoint Definition · Environment / 2026-10-09\",\"texts\":[{\"id\":\"247:1188\",\"t\":\"Local control\"},{\"id\":\"247:1189\",\"t\":\"Camera + STM32 vision.\\nLift and wheel commands.\\nClear stopped states.\"},{\"id\":\"247:1173\",\"t\":\"System Design\"},{\"id\":\"247:1175\",\"t\":\"System Map\"},{\"id\":\"247:1183\",\"t\":\"Shared external\\nconnections\"},{\"id\":\"247:1191\",\"t\":\"Device Touchpoints\"},{\"id\":\"247:1192\",\"t\":\"Simple direct requests.\\nVisible device feedback.\\nCaregiver follow-up.\"},{\"id\":\"247:1194\",\"t\":\"Family\\ncaregiver\"},{\"id\":\"247:1196\",\"t\":\"Home settings\\n+ agreements\"},{\"id\":\"247:1198\",\"t\":\"Service\\n+ repair\"},{\"id\":\"247:1202\",\"t\":\"Local control\\nSTM32 + camera\"},{\"id\":\"247:1209\",\"t\":\"NEARBY\"},{\"id\":\"247:1216\",\"t\":\"Local settings\\n& recognition\"},{\"id\":\"247:1218\",\"t\":\"Caregiver\\napp\"},{\"id\":\"247:1220\",\"t\":\"Familiar\\nitems\"},{\"id\":\"247:1222\",\"t\":\"Direct\\nremote\"},{\"id\":\"247:1230\",\"t\":\"Caregiver\"},{\"id\":\"247:1234\",\"t\":\"Direct request\"},{\"id\":\"247:1239\",\"t\":\"Cabinet\"},{\"id\":\"247:1245\",\"t\":\"Touchpoint Definition\"},{\"id\":\"247:1247\",\"t\":\"Personal Touchpoint: Familiar Essentials\"},{\"id\":\"247:1249\",\"t\":\"Familiar items stay in fixed slots.\\nDirect controls make requests\\nand device states visible.\"},{\"id\":\"247:1260\",\"t\":\"Familiar layout\"},{\"id\":\"247:1261\",\"t\":\"Same objects in the\\nsame visible places.\"},{\"id\":\"247:1263\",\"t\":\"Chosen movement\"},{\"id\":\"247:1264\",\"t\":\"COME and STAY keep\\nmovement deliberate.\"},{\"id\":\"247:1266\",\"t\":\"Shared upkeep\"},{\"id\":\"247:1267\",\"t\":\"Agree replenishment\\nand charging duties.\"},{\"id\":\"247:1269\",\"t\":\"Product Functional Architecture\"},{\"id\":\"247:1272\",\"t\":\"• Fixed locations for familiar items.\\n• Raise the surface after parking.\\n• Show moving, parked and paused.\\n• Stop on STAY or uncertainty.\"},{\"id\":\"247:1274\",\"t\":\"• COME: request an agreed stop.\\n• STAY pauses; HELP asks for care.\"},{\"id\":\"247:1276\",\"t\":\"• Review the map and home settings.\\n• Follow up on support requests.\"},{\"id\":\"247:1279\",\"t\":\"Device Touchpoints\"},{\"id\":\"247:1281\",\"t\":\"A  Cabinet\"},{\"id\":\"247:1282\",\"t\":\"Familiar storage · adjustable surface\\nClear device state\"},{\"id\":\"247:1284\",\"t\":\"B  Direct remote\"},{\"id\":\"247:1285\",\"t\":\"COME / STAY / HELP\\nFew choices · direct actions\"},{\"id\":\"247:1287\",\"t\":\"C  Caregiver app\"},{\"id\":\"247:1288\",\"t\":\"Shared setup and places\\nReview requests and maintenance\"},{\"id\":\"247:1291\",\"t\":\"Essential Functions\"},{\"id\":\"247:1292\",\"t\":\"Familiar storage with clear, direct physical controls.\"},{\"id\":\"247:1295\",\"t\":\"Assisted Functions\"},{\"id\":\"247:1296\",\"t\":\"Requested reach at stopping places agreed together.\"},{\"id\":\"247:1299\",\"t\":\"Extended Functions\"},{\"id\":\"247:1300\",\"t\":\"Home map, help delivery and caregiver review.\"},{\"id\":\"248:1191\",\"t\":\"Touchpoints + Environment\"},{\"id\":\"248:1193\",\"t\":\"Space Management\"},{\"id\":\"248:1195\",\"t\":\"Shared home review\"},{\"id\":\"248:1196\",\"t\":\"• Identify familiar objects and rooms.\\n• Check walking space and furniture.\\n• Agree who can change the setup.\"},{\"id\":\"248:1197\",\"t\":\"Adjustable settings\"},{\"id\":\"248:1198\",\"t\":\"• Name a few familiar stopping places.\\n• Mark restricted areas together.\\n• Review routes before enabling motion.\\n• Pause whenever the situation is unclear.\"},{\"id\":\"248:1200\",\"t\":\"Product Layout Principle\"},{\"id\":\"248:1258\",\"t\":\"LIVING\"},{\"id\":\"248:1259\",\"t\":\"BEDROOM\"},{\"id\":\"248:1260\",\"t\":\"KITCHEN\"},{\"id\":\"248:1261\",\"t\":\"BATH / NO-GO\"},{\"id\":\"248:1262\",\"t\":\"HALL\"},{\"id\":\"248:1273\",\"t\":\"01  Familiar spaces\"},{\"id\":\"248:1330\",\"t\":\"LIVING\"},{\"id\":\"248:1331\",\"t\":\"BEDROOM\"},{\"id\":\"248:1332\",\"t\":\"KITCHEN\"},{\"id\":\"248:1333\",\"t\":\"BATH / NO-GO\"},{\"id\":\"248:1334\",\"t\":\"HALL\"},{\"id\":\"248:1336\",\"t\":\"A\"},{\"id\":\"248:1338\",\"t\":\"B\"},{\"id\":\"248:1340\",\"t\":\"C\"},{\"id\":\"248:1341\",\"t\":\"02  Agreed stops\"},{\"id\":\"248:1398\",\"t\":\"LIVING\"},{\"id\":\"248:1399\",\"t\":\"BEDROOM\"},{\"id\":\"248:1400\",\"t\":\"KITCHEN\"},{\"id\":\"248:1402\",\"t\":\"HALL\"},{\"id\":\"248:1404\",\"t\":\"A\"},{\"id\":\"248:1406\",\"t\":\"B\"},{\"id\":\"248:1408\",\"t\":\"C\"},{\"id\":\"248:1411\",\"t\":\"NO-GO\"},{\"id\":\"248:1412\",\"t\":\"03  Routes + restrictions\"},{\"id\":\"248:1469\",\"t\":\"LIVING\"},{\"id\":\"248:1470\",\"t\":\"BEDROOM\"},{\"id\":\"248:1471\",\"t\":\"KITCHEN\"},{\"id\":\"248:1472\",\"t\":\"BATH / NO-GO\"},{\"id\":\"248:1473\",\"t\":\"HALL\"},{\"id\":\"248:1475\",\"t\":\"A\"},{\"id\":\"248:1477\",\"t\":\"B\"},{\"id\":\"248:1479\",\"t\":\"C\"},{\"id\":\"248:1481\",\"t\":\"A / Familiar seat\"},{\"id\":\"248:1482\",\"t\":\"Keep the familiar item arrangement.\\nPark beside the chair and leave\\nthe walking route clear.\"},{\"id\":\"248:1484\",\"t\":\"B / Bedside\"},{\"id\":\"248:1485\",\"t\":\"Agree a reachable place with the user.\\nAllow room for standing, turning\\nand the caregiver’s approach.\"},{\"id\":\"248:1487\",\"t\":\"C / Charging place\"},{\"id\":\"248:1488\",\"t\":\"Use a consistent resting position.\\nKeep cables outside walking routes.\"},{\"id\":\"247:1185\",\"t\":\"Shared care\"},{\"id\":\"247:1186\",\"t\":\"Agree familiar items.\\nReview places together.\\nChoose who receives help.\"},{\"id\":\"247:1240\",\"t\":\"Shared settings connect people, familiar objects and\\nplaces. The cabinet acts only on an explicit request.\"},{\"id\":\"247:1257\",\"t\":\"COME · STAY · HELP\"}]}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "id": "84:480",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"board\":\"84:480\",\"name\":\"05 / Technical feasibility + Product function / Reference aligned 2026-10-09\",\"texts\":[{\"id\":\"257:1634\",\"t\":\"Proposed component architecture\"},{\"id\":\"257:1636\",\"t\":\"Familiar tray / four-point lift / mobile cabinet\"},{\"id\":\"257:1637\",\"t\":\"Prototype: STM32 + camera, four A2 electric\\nactuators and a powered wheel base.\"},{\"id\":\"257:1673\",\"t\":\"Request\"},{\"id\":\"257:1678\",\"t\":\"Lift\"},{\"id\":\"257:1684\",\"t\":\"Move\"},{\"id\":\"257:1688\",\"t\":\"Feedback\"},{\"id\":\"296:3380\",\"t\":\"Font\"},{\"id\":\"296:3381\",\"t\":\"Colour\"},{\"id\":\"257:1692\",\"t\":\"Local control + recognition\"},{\"id\":\"257:1693\",\"t\":\"STM32 + camera process face input locally.\\nPhone commands connect to device control.\\nExact board and link protocol to be confirmed.\"},{\"id\":\"257:1697\",\"t\":\"Direct request\"},{\"id\":\"257:1698\",\"t\":\"COME / STAY / HELP\\nLarge words and\\ntactile controls.\"},{\"id\":\"257:1701\",\"t\":\"Four-point lift\"},{\"id\":\"257:1702\",\"t\":\"Four posts lift the tray.\\nKeep familiar objects\\nin the same places.\"},{\"id\":\"257:1705\",\"t\":\"Visible feedback\"},{\"id\":\"257:1706\",\"t\":\"STAY confirms a pause.\\nRead the status before\\nthe next request.\"},{\"id\":\"I257:1714;257:1641\",\"t\":\"Tray arrangement\"},{\"id\":\"I257:1714;257:1642\",\"t\":\"Four familiar places\"},{\"id\":\"I257:1718;257:1641\",\"t\":\"Direct buttons\"},{\"id\":\"I257:1718;257:1642\",\"t\":\"Request · pause · help\"},{\"id\":\"I257:1722;257:1641\",\"t\":\"Mobile base\"},{\"id\":\"I257:1722;257:1642\",\"t\":\"Powered wheel concept\"},{\"id\":\"257:1726\",\"t\":\"Project Blender renders \"},{\"id\":\"267:1753\",\"t\":\"Device design\"},{\"id\":\"299:2946\",\"t\":\"APP Development\"},{\"id\":\"299:2948\",\"t\":\"Hi-fi interface\"},{\"id\":\"296:3378\",\"t\":\"Visual Guidelines\"},{\"id\":\"299:2950\",\"t\":\"Find & identify\"},{\"id\":\"299:2951\",\"t\":\"Find familiar things.\\nConfirm people and\\nlast-seen locations.\"},{\"id\":\"299:2953\",\"t\":\"Map & storage\"},{\"id\":\"299:2954\",\"t\":\"Review the\\nhome, find\\nsaved places\\nand keep\\nitems in their\\nfamiliar spots.\"},{\"id\":\"299:2956\",\"t\":\"Send a request\\nand check delivery\\nand family replies.\"},{\"id\":\"299:2957\",\"t\":\"IBM Sans Family\"},{\"id\":\"299:2959\",\"t\":\"Remote\\ncontrol\"},{\"id\":\"299:2960\",\"t\":\"Choose a stop,\\ncheck battery\\nand control\\nmovement.\"},{\"id\":\"299:2961\",\"t\":\"Home\"},{\"id\":\"299:2967\",\"t\":\"9:41\"},{\"id\":\"299:2970\",\"t\":\"NEARBY\"},{\"id\":\"299:2972\",\"t\":\"Find an object\"},{\"id\":\"299:2973\",\"t\":\"A clear location for everyday essentials\"},{\"id\":\"299:2976\",\"t\":\"Glasses\"},{\"id\":\"299:2980\",\"t\":\"Last seen · 09:40\"},{\"id\":\"299:2983\",\"t\":\"Glasses are on the tray\"},{\"id\":\"299:2984\",\"t\":\"Living room · check the latest image\"},{\"id\":\"299:2985\",\"t\":\"Can’t see them? Scan again to update the location.\"},{\"id\":\"I299:2986;127:214\",\"t\":\"Show location on map\"},{\"id\":\"299:2990\",\"t\":\"Home\"},{\"id\":\"299:2993\",\"t\":\"Find\"},{\"id\":\"299:2996\",\"t\":\"Family\"},{\"id\":\"299:2999\",\"t\":\"Remote\"},{\"id\":\"299:3032\",\"t\":\"9:41\"},{\"id\":\"299:3035\",\"t\":\"NEARBY\"},{\"id\":\"299:3037\",\"t\":\"People at home\"},{\"id\":\"299:3038\",\"t\":\"Known faces, with your confirmation\"},{\"id\":\"299:3042\",\"t\":\"Anna · confirmed\"},{\"id\":\"299:3045\",\"t\":\"Anna\"},{\"id\":\"299:3046\",\"t\":\"Living room · seen at 09:41\"},{\"id\":\"299:3049\",\"t\":\"Unknown visitor\"},{\"id\":\"299:3050\",\"t\":\"No profile match · review before saving\"},{\"id\":\"I299:3051;127:214\",\"t\":\"Review recognized people\"},{\"id\":\"299:3055\",\"t\":\"Home\"},{\"id\":\"299:3058\",\"t\":\"Find\"},{\"id\":\"299:3061\",\"t\":\"Family\"},{\"id\":\"299:3064\",\"t\":\"Remote\"},{\"id\":\"299:3094\",\"t\":\"9:41\"},{\"id\":\"299:3097\",\"t\":\"NEARBY\"},{\"id\":\"299:3099\",\"t\":\"Your whole home\"},{\"id\":\"299:3100\",\"t\":\"Map reviewed today · 4 rooms\"},{\"id\":\"299:3104\",\"t\":\"Living room\"},{\"id\":\"299:3106\",\"t\":\"NEARBY parked\"},{\"id\":\"299:3111\",\"t\":\"Home scan\"},{\"id\":\"299:3114\",\"t\":\"People\"},{\"id\":\"299:3117\",\"t\":\"Find items\"},{\"id\":\"299:3121\",\"t\":\"Storage\"},{\"id\":\"299:3124\",\"t\":\"Family\"},{\"id\":\"299:3127\",\"t\":\"Control\"},{\"id\":\"I299:3128;127:214\",\"t\":\"Review rooms & boundaries\"},{\"id\":\"299:3132\",\"t\":\"Home\"},{\"id\":\"299:3135\",\"t\":\"Find\"},{\"id\":\"299:3138\",\"t\":\"Family\"},{\"id\":\"299:3141\",\"t\":\"Remote\"},{\"id\":\"299:3186\",\"t\":\"9:41\"},{\"id\":\"299:3189\",\"t\":\"NEARBY\"},{\"id\":\"299:3191\",\"t\":\"Your whole home\"},{\"id\":\"299:3192\",\"t\":\"Map reviewed today · 4 rooms\"},{\"id\":\"299:3196\",\"t\":\"Living room\"},{\"id\":\"299:3198\",\"t\":\"NEARBY parked\"},{\"id\":\"299:3224\",\"t\":\"Home\"},{\"id\":\"299:3227\",\"t\":\"Find\"},{\"id\":\"299:3230\",\"t\":\"Family\"},{\"id\":\"299:3233\",\"t\":\"Remote\"},{\"id\":\"299:3235\",\"t\":\"Review home map\"},{\"id\":\"299:3236\",\"t\":\"Living room · Kitchen · Bedroom · Bath\\nAgreed stop: day chair\\nBathroom: no movement zone\"},{\"id\":\"299:3238\",\"t\":\"Confirm reviewed map\"},{\"id\":\"299:3262\",\"t\":\"9:41\"},{\"id\":\"299:3265\",\"t\":\"NEARBY\"},{\"id\":\"299:3267\",\"t\":\"A place for everything\"},{\"id\":\"299:3268\",\"t\":\"Familiar positions, easier to remember\"},{\"id\":\"299:3272\",\"t\":\"4 saved positions\"},{\"id\":\"299:3276\",\"t\":\"Glasses\"},{\"id\":\"299:3277\",\"t\":\"Tray · front left\"},{\"id\":\"299:3280\",\"t\":\"Phone\"},{\"id\":\"299:3281\",\"t\":\"Tray · center\"},{\"id\":\"299:3284\",\"t\":\"Water + tissues\"},{\"id\":\"299:3285\",\"t\":\"Tray · back right / back left\"},{\"id\":\"I299:3286;127:214\",\"t\":\"Edit saved positions\"},{\"id\":\"299:3290\",\"t\":\"Home\"},{\"id\":\"299:3293\",\"t\":\"Find\"},{\"id\":\"299:3296\",\"t\":\"Family\"},{\"id\":\"299:3299\",\"t\":\"Remote\"},{\"id\":\"299:3333\",\"t\":\"9:41\"},{\"id\":\"299:3336\",\"t\":\"NEARBY\"},{\"id\":\"299:3338\",\"t\":\"Keep family close\"},{\"id\":\"299:3339\",\"t\":\"Clear messages and visible replies\"},{\"id\":\"299:3342\",\"t\":\"Mei\"},{\"id\":\"299:3343\",\"t\":\"Daughter · preferred contact\"},{\"id\":\"299:3346\",\"t\":\"HELP REQUEST\"},{\"id\":\"299:3347\",\"t\":\"Could you give me a hand?\"},{\"id\":\"299:3348\",\"t\":\"Include: request + living room location\"},{\"id\":\"299:3349\",\"t\":\"Sent 09:38  ·  Delivered\"},{\"id\":\"299:3351\",\"t\":\"Mei replied · 09:40\"},{\"id\":\"299:3352\",\"t\":\"“I’ll call you in a moment.”\"},{\"id\":\"I299:3353;127:214\",\"t\":\"Send a new notification\"},{\"id\":\"299:3357\",\"t\":\"Home\"},{\"id\":\"299:3360\",\"t\":\"Find\"},{\"id\":\"299:3363\",\"t\":\"Family\"},{\"id\":\"299:3366\",\"t\":\"Remote\"},{\"id\":\"299:3395\",\"t\":\"9:41\"},{\"id\":\"299:3398\",\"t\":\"NEARBY\"},{\"id\":\"299:3400\",\"t\":\"Keep family close\"},{\"id\":\"299:3401\",\"t\":\"Clear messages and visible replies\"},{\"id\":\"299:3404\",\"t\":\"Mei\"},{\"id\":\"299:3405\",\"t\":\"Daughter · preferred contact\"},{\"id\":\"299:3408\",\"t\":\"HELP REQUEST\"},{\"id\":\"299:3409\",\"t\":\"Could you give me a hand?\"},{\"id\":\"299:3410\",\"t\":\"Include: request + living room location\"},{\"id\":\"299:3411\",\"t\":\"Sent just now · awaiting delivery\"},{\"id\":\"299:3413\",\"t\":\"Waiting for a reply\"},{\"id\":\"299:3414\",\"t\":\"No response yet.\"},{\"id\":\"299:3419\",\"t\":\"Home\"},{\"id\":\"299:3422\",\"t\":\"Find\"},{\"id\":\"299:3425\",\"t\":\"Family\"},{\"id\":\"299:3428\",\"t\":\"Remote\"},{\"id\":\"299:3430\",\"t\":\"View family messages\"},{\"id\":\"299:3458\",\"t\":\"9:41\"},{\"id\":\"299:3461\",\"t\":\"NEARBY\"},{\"id\":\"299:3463\",\"t\":\"Beside you, on request\"},{\"id\":\"299:3464\",\"t\":\"Living room · connected\"},{\"id\":\"299:3467\",\"t\":\"STAY · parked\"},{\"id\":\"299:3470\",\"t\":\"Destination: day chair\"},{\"id\":\"299:3471\",\"t\":\"Agreed stop · living room\"},{\"id\":\"299:3473\",\"t\":\"Move to an agreed place\"},{\"id\":\"I299:3474;127:214\",\"t\":\"COME\"},{\"id\":\"299:3476\",\"t\":\"STAY\"},{\"id\":\"299:3477\",\"t\":\"STAY pauses movement. Resume only with a new request.\"},{\"id\":\"I299:3478;127:214\",\"t\":\"Ask family for help\"},{\"id\":\"299:3482\",\"t\":\"Home\"},{\"id\":\"299:3485\",\"t\":\"Find\"},{\"id\":\"299:3488\",\"t\":\"Family\"},{\"id\":\"299:3491\",\"t\":\"Remote\"},{\"id\":\"296:3365\",\"t\":\"Website Version\"},{\"id\":\"296:3373\",\"t\":\"The website enables family members to remotely monitor the home, locate people and belongings, receive alerts, and control the NEARBY device.\"}]}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "id": "315:3274",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"board\":\"315:3274\",\"name\":\"Prototype / Exact reference geometry + sequential build\",\"texts\":[{\"id\":\"315:3281\",\"t\":\"Prototype\"},{\"id\":\"320:4861\",\"t\":\"Scenarios\"},{\"id\":\"315:3282\",\"t\":\"|\"},{\"id\":\"315:3283\",\"t\":\"Cabinet & lift\"},{\"id\":\"315:3284\",\"t\":\"From prepared panels to a full-scale prototype. The build combines a wheeled cabinet, guided lift supports and a raised top platform before the electronics are integrated.\"},{\"id\":\"320:4862\",\"t\":\"NEARBY taught me that everyday support needs to be clear and reliable. Prototyping revealed challenges in stability and assembly, while remote monitoring raised questions about privacy and independence. Next, I would test the device with older adults and their families to improve usability and trust.\"},{\"id\":\"320:4858\",\"t\":\"https://github.com/leviastudio925-collab/nearby-stm32h743-offline-face\"},{\"id\":\"315:3285\",\"t\":\"BUILD LOGIC\"},{\"id\":\"315:3287\",\"t\":\"Stage 1  Cabinet assembly\"},{\"id\":\"315:3290\",\"t\":\"Stage 2  Lift structure\"},{\"id\":\"315:3293\",\"t\":\"Stage 3  Electronics\"},{\"id\":\"315:3303\",\"t\":\"Platform\"},{\"id\":\"315:3304\",\"t\":\"Guided lift\"},{\"id\":\"315:3305\",\"t\":\"Cabinet\"},{\"id\":\"315:3325\",\"t\":\"→\"},{\"id\":\"315:3326\",\"t\":\"Panel kit\"},{\"id\":\"315:3327\",\"t\":\"Cabinet → lift → integrated prototype\"},{\"id\":\"I315:3328;315:3279\",\"t\":\"\"},{\"id\":\"I315:3332;315:3279\",\"t\":\"\"},{\"id\":\"315:3336\",\"t\":\"02–03  Assemble the cabinet and secure the drawer rails.\"},{\"id\":\"I315:3337;315:3279\",\"t\":\"\"},{\"id\":\"I315:3341;315:3279\",\"t\":\"\"},{\"id\":\"315:3355\",\"t\":\"Mechanical assembly / steps 01–06\"},{\"id\":\"320:4857\",\"t\":\"Face Detected Coding / STM32H743 + OV2640\"},{\"id\":\"320:4853\",\"t\":\"Wiring preparation / steps 07–12\"},{\"id\":\"320:4863\",\"t\":\"Reflection\"},{\"id\":\"I315:3356;315:3279\",\"t\":\"01  Prepare the panels\"},{\"id\":\"I315:3360;315:3279\",\"t\":\"02  Fasten the cabinet\"},{\"id\":\"I315:3364;315:3279\",\"t\":\"03  Fit the drawer rails\"},{\"id\":\"I315:3368;315:3279\",\"t\":\"04  Mount lift hardware\"},{\"id\":\"I315:3372;315:3279\",\"t\":\"05  Align the guide rails\"},{\"id\":\"I315:3376;315:3279\",\"t\":\"06  Tighten the fasteners\"},{\"id\":\"I315:3384;315:3279\",\"t\":\"\"},{\"id\":\"I315:3395;315:3279\",\"t\":\"08  Prepare actuator connections\"},{\"id\":\"320:4854\",\"t\":\"07  Welding the motherboard\"},{\"id\":\"I315:3399;315:3279\",\"t\":\"09  Wire the control board\"},{\"id\":\"I315:3403;315:3279\",\"t\":\"10  Connect the cable set\"},{\"id\":\"I315:3413;315:3279\",\"t\":\"11  Route cables inside the cabinet\"},{\"id\":\"I315:3417;315:3279\",\"t\":\"12  Fit the display and connections\"}]}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    }
+  ],
+  "changes": [
+    [
+      "383:3418",
+      "NEARBY is a mobile assistive cabinet designed to keep everyday essentials within reach for older adults, including people living with dementia. It combines familiar storage, an adjustable tray and COME / STAY / HELP controls. A proposed app and family dashboard support item finding, remote assistance and communication."
+    ],
+    [
+      "383:3422",
+      "Physical prototype · Interface concepts\nOffline face-matching code"
+    ],
+    [
+      "188:1163",
+      "Documentary Research"
+    ],
+    [
+      "188:1166",
+      "Pain Point Themes"
+    ],
+    [
+      "192:1163",
+      "Research Synthesis & Insights"
+    ],
+    [
+      "192:1165",
+      "User Groups"
+    ],
+    [
+      "192:1212",
+      "Where was it left?\nCan a stable layout\nmake it recognisable?"
+    ],
+    [
+      "192:1324",
+      "RECOGNISE"
+    ],
+    [
+      "192:1311",
+      "MOVE"
+    ],
+    [
+      "192:1337",
+      "USE"
+    ],
+    [
+      "201:1357",
+      "7"
+    ],
+    [
+      "201:1358",
+      "8"
+    ],
+    [
+      "221:1192",
+      "Prototype code compares aligned face images locally. Automatic face detection and board testing are still needed."
+    ],
+    [
+      "221:1199",
+      "Electric linear actuators raise and lower the platform. Coordinated travel and end limits need verification."
+    ],
+    [
+      "221:1207",
+      "Requested motion + phone commands  [3, 4]"
+    ],
+    [
+      "221:1208",
+      "The proposed drive moves to agreed stops on request. Phone controls provide commands and status feedback."
+    ],
+    [
+      "221:1216",
+      "STM32\nFace matching\n+ control logic"
+    ],
+    [
+      "221:1220",
+      "4 × actuators\nPlatform height"
+    ],
+    [
+      "221:1222",
+      "Powered wheels\nRequested motion"
+    ],
+    [
+      "221:1233",
+      "Recognise"
+    ],
+    [
+      "221:1248",
+      "Motor-driven wheelbase"
+    ],
+    [
+      "210:1284",
+      "System Integration"
+    ],
+    [
+      "210:1288",
+      "Prototype: cabinet + lift assembly.\nNext: mapping + control integration."
+    ],
+    [
+      "228:1131",
+      "Link a recognised person\nto familiar objects and agreed\nplaces within the home."
+    ],
+    [
+      "228:1150",
+      "Recognise\nthe arrangement"
+    ],
+    [
+      "237:1937",
+      "Help request status"
+    ],
+    [
+      "247:1296",
+      "Bring essentials within reach at agreed stopping places."
+    ],
+    [
+      "247:1300",
+      "Home map, help request status and caregiver review."
+    ],
+    [
+      "247:1186",
+      "Agree familiar items.\nReview places together.\nChoose who receives alerts."
+    ],
+    [
+      "247:1240",
+      "Proposed settings link people, familiar objects and places.\nMovement starts only after an explicit request."
+    ],
+    [
+      "257:1637",
+      "Prototype: wheeled cabinet and electric lift.\nNext: recognition and drive integration."
+    ],
+    [
+      "257:1693",
+      "STM32H743 + OV2640 selected for local matching.\nCore code tested on PC; board testing pending.\nPhone link and control integration still required."
+    ],
+    [
+      "257:1726",
+      "Blender modelling view · concept renders"
+    ],
+    [
+      "299:2946",
+      "App Design"
+    ],
+    [
+      "299:2948",
+      "High-fidelity UI concept"
+    ],
+    [
+      "299:2957",
+      "IBM Plex Sans"
+    ],
+    [
+      "I299:3051;127:214",
+      "Review recognised people"
+    ],
+    [
+      "299:3281",
+      "Tray · centre"
+    ],
+    [
+      "299:3236",
+      "Living room · Kitchen · Bedroom · Bathroom\nAgreed stop: day chair\nBathroom: restricted area"
+    ],
+    [
+      "299:3467",
+      "STAY · paused"
+    ],
+    [
+      "296:3365",
+      "Family Web Dashboard"
+    ],
+    [
+      "296:3373",
+      "The proposed dashboard lets family members monitor the home, locate people and items, receive alerts and remotely control NEARBY, with the user’s permission."
+    ],
+    [
+      "320:4857",
+      "Offline face-matching prototype"
+    ],
+    [
+      "320:4858",
+      "STM32H743 + OV2640 · fixed ROI\nPC-tested core; board testing pending\nSource code on GitHub ↗"
+    ],
+    [
+      "320:4854",
+      "07  Solder the control board"
+    ],
+    [
+      "320:4861",
+      "Scenario"
+    ],
+    [
+      "315:3284",
+      "From prepared panels to a full-scale prototype: cabinet assembly, lift installation and electronics integration."
+    ],
+    [
+      "I282:1629;127:214",
+      "Review recognised people"
+    ],
+    [
+      "282:1758",
+      "Tray · centre"
+    ],
+    [
+      "282:1874",
+      "STAY · paused"
+    ],
+    [
+      "282:1919",
+      "Recognise the home → confirm the person → find an item → keep its place → notify family → control the device."
+    ],
+    [
+      "284:1603",
+      "Living room · Kitchen · Bedroom · Bathroom\nAgreed stop: day chair\nBathroom: restricted area"
+    ],
+    [
+      "284:1669",
+      "Confirm recognised person"
+    ],
+    [
+      "284:1693",
+      "Tray · centre"
+    ],
+    [
+      "284:1746",
+      "Glasses: tray · front left\nPhone: tray · centre\nWater / tissues: back right / back left"
+    ]
+  ]
+}

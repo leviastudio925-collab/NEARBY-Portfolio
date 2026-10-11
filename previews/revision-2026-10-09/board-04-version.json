@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-09",
+  "fileKey": "ApoghdbZoRBlbBcDctaMXf",
+  "boardNodeId": "84:436",
+  "contentRootNodeId": "246:1386",
+  "archiveNodeId": "246:1173",
+  "reference": "board-04-reference.png",
+  "before": "board-04-before.png",
+  "after": "board-04-after.png",
+  "layout": "System Design / Touchpoint Definition / Touchpoints + Environment",
+  "mapLayers": [
+    "Familiar spaces",
+    "Agreed stops",
+    "Routes + restrictions"
+  ],
+  "mapContext": "Three views of the same proposed home layout",
+  "editable": true,
+  "textOverflow": [],
+  "iconOverflow": []
+}

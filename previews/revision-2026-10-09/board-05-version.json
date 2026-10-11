@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-09",
+  "fileKey": "ApoghdbZoRBlbBcDctaMXf",
+  "boardNodeId": "84:480",
+  "leftHalfNodeId": "257:1629",
+  "archiveNodeId": "257:1198",
+  "scope": "Left half: technical feasibility and product function. Existing consent panel fitted into right half.",
+  "before": "board-05-before.png",
+  "after": "board-05-after.png",
+  "sourceRecord": "../../assets/board05/sources.txt",
+  "font": "IBM Plex Sans",
+  "textOverflow": [],
+  "visualVerification": "Passed: all model and component images visible; labels and leader endpoints checked."
+}

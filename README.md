@@ -1,74 +1,60 @@
-# NEARBY — Bring your break with you
+# NEARBY — Bring Your Break With You
 
-A following, height-adjustable tea table for young adults at home or in short-stay accommodation, with a proposed suitcase-like packed mode for manual towing and car transport.
+A following, height-adjustable tea table for young adults who want effortless downtime at home or during a short stay. Keep a drink, book and phone together as you move between a balcony and a sofa; park the table and adjust its surface to your seat.
 
-Tea, a book and a phone travel together from an enclosed balcony to the living room. The user starts following, parks beside the next seat and adjusts the tabletop after stopping.
+**Current portfolio:** six boards · 1684 × 595 px · IBM Plex Sans · pale blue, white and dark blue.
 
-**Latest version: 2026-10-10** · six boards · 1684 × 595 px · English layout · IBM Plex Sans · mint green `#59C3AD`, cream `#FFF9EF` and apricot accents `#F7B68D`.
+[Editable Figma project](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=383-3293) · [Current six-page PDF](exports/NEARBY_Current_Portfolio.pdf) · [Offline STM32 recognition repository](https://github.com/leviastudio925-collab/nearby-stm32h743-offline-face)
 
-[Open the latest editable Figma boards](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=383-3293)
+## Latest portfolio
 
-## Current portfolio
+Snapshots synchronized from Figma on **2026-10-12**. Figma remains the editable design source. The PDF contains these six snapshots.
 
 | Board | Content | Preview |
 | --- | --- | --- |
-| 01 | Background + Everyday leisure context | [PNG](previews/board-01.png) |
-| 02 | Scenario research + Current leisure journey | [PNG](previews/board-02.png) |
-| 03 | Concept + Technical research | [PNG](previews/board-03.png) |
-| 04 | System + Indoor places | [PNG](previews/board-04.png) |
-| 05 | Device + Personal app | [PNG](previews/board-05.png) |
-| 06 | Prototype + Leisure scenario | [PNG](previews/board-06.png) |
+| 01 | Introduction, background and tabletop-height research | [PNG](previews/board-01.png) |
+| 02 | Leisure scenarios, user groups and journey | [PNG](previews/board-02.png) |
+| 03 | Design concept and technical research | [PNG](previews/board-03.png) |
+| 04 | System design, touchpoints and indoor routes | [PNG](previews/board-04.png) |
+| 05 | Device design, room presets and app controls | [PNG](previews/board-05.png) |
+| 06 | Physical assembly, wiring and reflection | [PNG](previews/board-06.png) |
 
-![Following tea table — prototype and leisure scenario](previews/board-06.png)
+![NEARBY introduction and background](previews/board-01.png)
 
-[Six-page preview PDF](leisure/NEARBY_Leisure_Portfolio_Preview.pdf) · [中文项目结构](leisure/docs/NEARBY_中文项目结构_休闲茶几.md) · [Sources and visual attribution](leisure/docs/SOURCES.md)
+![Device and app design](previews/board-05.png)
 
-The PDF is a raster preview of the current Figma boards. Figma remains the editable layout source.
+![Prototype assembly and wiring](previews/board-06.png)
 
-## Latest files
+## Interaction
 
-- `leisure/models/NEARBY_Leisure_Product.blend`: editable product model, tea-and-reading items, FOLLOW / STAY / HEIGHT controls and product scenes.
-- `leisure/assets/`: product renders, AI concept scenes, attributed context photos and the personal leisure map.
-- `leisure/docs/`: Chinese project structure, English copy, current Figma board IDs and sources.
-- `leisure/scripts/`: model adaptation and rendering source.
-- `previews/`: current six-board snapshots.
+- **FOLLOW:** request movement to the next indoor resting place.
+- **STAY:** pause and park before reaching for items.
+- **HEIGHT:** adjust the surface after parking.
+- **Room presets:** choose living room, balcony or short-stay studio; save a place and preferred surface height.
+- **Manual transport concept:** lower, clear and lock the table before towing or loading. Travel handling and locks require further testing.
+
+## Project files
+
+- `models/`: Blender product models and scene metadata.
+- `assets/`: renders, room presets, icons, reference photographs and prototype documentation.
+- `firmware/offline-face/`: C recognition core, STM32 HAL integration examples and tests.
+- `scripts/`: model, rendering and media preparation scripts.
+- `previews/`: current board snapshots and development previews.
+- `exports/`: current PDF and earlier exports retained as design history.
 - `source-demo/`: original prototype presentation and demonstration video.
+- `docs/`: historical research and handoff notes. Several documents describe the earlier care-oriented concept; use the current boards and this README for the latest project positioning.
 
-## Evidence and proposed behavior
+## Prototype status
 
-The original cabinet, lift assembly and process photographs are retained. The creator reports four A2 motor electric pushrods, a powered wheel base that can follow a person, a camera, local STM32 face recognition and a simple phone interface.
+The physical lift-box demonstrator uses a cabinet, electric lift structure and mobile base. The selected recognition hardware is STM32H743 + OV2640. The supplied C recognition core performs offline face-template matching within a fixed framing region; it does not implement automatic face detection, neural-network recognition or liveness detection. Its tests have run on a PC; board deployment and measured recognition performance remain to be verified.
 
-The latest project records select STM32H743 + OV2640 for local face matching. The fixed-ROI matching core has been tested on a PC; board testing remains pending. Identity matching and continuous tracking are separate engineering tasks.
+Face matching and continuous person following are separate tasks. The app, room presets, integrated following behaviour and compact transport features are design proposals requiring hardware integration and validation. [Read the firmware integration guide](firmware/offline-face/README.md).
 
-The revised personal app, indoor map, saved parking places, height presets and movement-state rules are interaction proposals. Scene images are AI concept simulations; context photographs illustrate activities, not completed fieldwork. User needs and the current journey are hypotheses derived from the revised brief. No measured movement accuracy, spill stability, load capacity or usability improvements are claimed.
+## Images and sources
 
-Core proposed sequence: **prepare → FOLLOW → change room → STAY → HEIGHT → resume the break**. Height adjustment takes place while parked. Home mapping and route boundaries have not been presented as an implemented SLAM system. Short-stay use now includes a proposed packed manual-transport mode. Mass, grip strength, rolling resistance and target-vehicle fit remain unmeasured; no validated luggage transport or outdoor operation is claimed.
+Assembly photographs and wiring-video frames document the creator's prototype. Product lifestyle scenes are labeled AI concept simulations. Stock photographs illustrate leisure scenarios and are not participant research evidence.
 
-## Earlier project versions
+Context-photo sources are recorded in [the source register](assets/photo-refresh/source-register.json) and their Figma layer names. Tabletop-height research uses cited IKEA product examples. Technical references include STMicroelectronics, Bansbach, Pololu and LINAK.
 
-The earlier dementia-care direction is retained in Git history and in `archive/care-2026-10-09/`. The legacy root `models/`, `assets/`, `docs/`, `scripts/` and `exports/` belong to that earlier direction. Use `leisure/` and the linked latest Figma boards for current work.
+Third-party material retains its original rights. This repository does not grant a blanket redistribution or open-source license over third-party assets.
 
-Third-party sources retain their rights. This private portfolio repository does not grant a blanket redistribution license.
-
-## Portable transport extension · 2026-10-10
-
-The existing six boards now connect indoor leisure with packing for the next stay. New concept hardware: a rear telescopic pull handle, recessed side carry grips, tabletop transport locks, drawer retention latches and a folding status screen. The Pack Mode screen reuses existing native Figma UI components and requires manual checks. Following is disabled before manual transport.
-
-[Editable transport study in Figma](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=428-3252) · [Supplementary PDF](leisure/NEARBY_Portable_Study.pdf)
-
-![Portable transport study](previews/portable-study.png)
-
-- `leisure/models/NEARBY_Leisure_Portable_Product.blend`: editable model with packed, extended-handle, detail and generic cargo-volume scenes; earlier leisure model retained.
-- `leisure/models/portable_model_manifest.json`: mode sequence and virtual packed bounds.
-- `leisure/assets/portable_*.png`: Blender renders and a labelled AI car-boot scenario.
-- `leisure/scripts/build_portable_model.py`: Blender source for this extension.
-
-Virtual packed envelope is approximately **600 × 490 × 500 mm** (actual model bounds 599 × 486 × 493 mm), not a real-product measurement. No mass, lift capacity, handle rating or universal car compatibility is asserted. The car image is a concept simulation generated from the packed model, not a photograph of a tested vehicle. The generic boot geometry in Blender is illustrative. Prompt and source attribution are retained in `leisure/docs/`. Original prototype evidence does not establish the new lock, grip or drivetrain-release mechanisms.
-
-Proposed transport flow: **STAY → clear tray → stow objects → lower and latch → disable following → confirm checks → manual tow → two-hand load → secure in car**. At the destination, release transport restraints, unpack and review the indoor layout before resuming leisure.
-
-## Fresh leisure palette
-
-The latest six Figma boards and supporting transport study now use mint **#59C3AD**, cream **#FFF9EF**, pale mint **#EAF7F0**, apricot **#F7B68D** and deep green-grey **#253A35**. Dark-green **#246B59** provides emphasis on pale backgrounds; bright mint provides emphasis on dark cards. A separate Figma variable collection scopes the new palette to current boards; the earlier orange collection is retained.
-
-Existing product renders, real prototype photos and warm scenario images keep their orange detailing as a complementary accent. Product geometry, IBM Plex Sans typography and six-board layout are retained. Palette variables and migration metadata are saved in `leisure/docs/fresh-leisure-palette.json` and `fresh-palette-migration.json`.

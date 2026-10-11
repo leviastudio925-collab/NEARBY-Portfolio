@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-09",
+  "fileKey": "ApoghdbZoRBlbBcDctaMXf",
+  "portfolioBoard": "84:635",
+  "previousBoardArchive": "286:2768",
+  "editableWorkingArea": "278:1242",
+  "prototypeDashboard": "286:2459",
+  "prototypeScreens": {
+    "wholeHomeRecognition": "286:1655",
+    "personRecognition": "286:1747",
+    "objectFinding": "286:1809",
+    "storage": "286:1874",
+    "familyNotifications": "286:1945",
+    "remoteControl": "286:2007"
+  },
+  "prototypeStates": {
+    "mapReview": "286:2069",
+    "personConfirmation": "286:2145",
+    "storageReview": "286:2206",
+    "notificationSent": "286:2272",
+    "moving": "286:2335",
+    "paused": "286:2397"
+  },
+  "visualDirection": "Reference-inspired three-column home overview; charcoal mobile interfaces; existing NEARBY warm orange variables, IBM Plex Sans and native icon/button components.",
+  "assets": {
+    "homeMap": "home-map.png",
+    "mapGeneration": "Built-in image_gen; concept apartment illustration, not a scanned floor plan.",
+    "productScene": "../scenes/nearby-board05-user-scene.png",
+    "personScene": "../scenes/nearby-product-use-scenario-v2.png"
+  },
+  "validation": "Portfolio screenshot and full UI composition visually inspected. Glasses and face highlight positions corrected. All 13 top-level prototype frames checked: no horizontal text overflow. Navigation reactions connect to existing top-level frames.",
+  "limits": "Figma concept prototype using example identities, positions and states; no recognition service, family messaging service or device control backend is connected."
+}

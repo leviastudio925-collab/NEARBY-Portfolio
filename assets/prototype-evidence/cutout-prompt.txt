@@ -1,0 +1,2 @@
+Built-in Imagegen / background-extraction
+Remove the background from IMG_5789. Preserve the person and handmade prototype, pose, colors, all hardware and details. Make all background and gaps transparent. No added parts, text or floor.
