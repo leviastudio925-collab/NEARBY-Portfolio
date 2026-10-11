@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-12",
+  "fileKey": "ApoghdbZoRBlbBcDctaMXf",
+  "pageId": "0:1",
+  "coverId": "509:3478",
+  "heroNodeId": "509:3479",
+  "imageHash": "c162ee9215a858c24b74e6642a3310610b02e145",
+  "size": [
+    1684,
+    595
+  ],
+  "position": [
+    8457,
+    -6419
+  ],
+  "font": "IBM Plex Sans",
+  "palette": {
+    "ink": "#2B4052",
+    "accent": "#8FB5D1"
+  },
+  "nativeEditableTextCount": 7,
+  "asset": "assets/cover/nearby-mist-blue-studio.png",
+  "sourceImageSize": [
+    2108,
+    746
+  ],
+  "references": [
+    "assets/mist-blue/recolour-7.png",
+    "user-supplied R MEAL editorial cover reference"
+  ],
+  "method": "Built-in image generation. Original product geometry used as visual reference; studio backdrop and contact shadow generated. Native editable Figma text and auto-layout groups added separately.",
+  "disclosure": "AI concept render; no product performance or physical test evidence implied.",
+  "preview": "previews/board-00-cover.png",
+  "portfolioPageCount": 7
+}

@@ -2,22 +2,25 @@
 
 A following, height-adjustable tea table for young adults who want effortless downtime at home or during a short stay. Keep a drink, book and phone together as you move between a balcony and a sofa; park the table and adjust its surface to your seat.
 
-**Current portfolio:** six boards · 1684 × 595 px · IBM Plex Sans · pale blue, white and dark blue.
+**Current portfolio:** one cover + six content boards · 1684 × 595 px · IBM Plex Sans · pale blue, white and dark blue.
 
-[Editable Figma project](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=383-3293) · [Current six-page PDF](exports/NEARBY_Current_Portfolio.pdf) · [Offline STM32 recognition repository](https://github.com/leviastudio925-collab/nearby-stm32h743-offline-face)
+[Editable Figma project](https://www.figma.com/design/ApoghdbZoRBlbBcDctaMXf/Untitled?node-id=383-3293) · [Current seven-page PDF](exports/NEARBY_Current_Portfolio.pdf) · [Offline STM32 recognition repository](https://github.com/leviastudio925-collab/nearby-stm32h743-offline-face)
 
 ## Latest portfolio
 
-Snapshots synchronized from Figma on **2026-10-12**. Figma remains the editable design source. The PDF contains these six snapshots.
+Snapshots synchronized from Figma on **2026-10-12**. Figma remains the editable design source. The PDF contains the new cover followed by these six content snapshots.
 
 | Board | Content | Preview |
 | --- | --- | --- |
+| 00 | Minimal product cover and introduction | [PNG](previews/board-00-cover.png) |
 | 01 | Introduction, background and tabletop-height research | [PNG](previews/board-01.png) |
 | 02 | Leisure scenarios, user groups and journey | [PNG](previews/board-02.png) |
 | 03 | Design concept and technical research | [PNG](previews/board-03.png) |
 | 04 | System design, touchpoints and indoor routes | [PNG](previews/board-04.png) |
 | 05 | Device design, room presets and app controls | [PNG](previews/board-05.png) |
 | 06 | Physical assembly, wiring and reflection | [PNG](previews/board-06.png) |
+
+![NEARBY minimal product cover](previews/board-00-cover.png)
 
 ![NEARBY introduction and background](previews/board-01.png)
 
